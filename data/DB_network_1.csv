@@ -1,0 +1,2699 @@
+id;names;class_node;node.size;log_node.size;country;country.label;node.colour
+A90;t1;author;1;0.1;Australia;A;yellow4
+A205;t45;author;1;0.1;Brazil;BZ;violetred4
+A597;t51;author;1;0.1;Brazil;BZ;violetred4
+A365;t105;author;1;0.1;Canada;CA;olivedrab4
+A369;t112;author;1;0.1;Canada;CA;olivedrab4
+A554;t137;author;1;0.1;Canada;CA;olivedrab4
+A610;t151;author;1;0.1;Chile;CHL;palegreen4
+A45;t154;author;1;0.1;China;CHN;red
+A54;t155;author;1;0.1;China;CHN;red
+A93;t156;author;1;0.1;China;CHN;red
+A94;t158;author;1;0.1;China;CHN;red
+A96;t159;author;1;0.1;China;CHN;red
+A97;t160;author;1;0.1;China;CHN;red
+A100;t163;author;1;0.1;China;CHN;red
+A101;t164;author;1;0.1;China;CHN;red
+A102;t165;author;1;0.1;China;CHN;red
+A103;t166;author;1;0.1;China;CHN;red
+A124;t167;author;1;0.1;China;CHN;red
+A150;t170;author;1;0.1;China;CHN;red
+A151;t171;author;1;0.1;China;CHN;red
+A154;t172;author;1;0.1;China;CHN;red
+A160;t173;author;1;0.1;China;CHN;red
+A169;t174;author;1;0.1;China;CHN;red
+A193;t182;author;1;0.1;China;CHN;red
+A220;t184;author;1;0.1;China;CHN;red
+A221;t188;author;1;0.1;China;CHN;red
+A222;t189;author;1;0.1;China;CHN;red
+A251;t195;author;1;0.1;China;CHN;red
+A252;t196;author;1;0.1;China;CHN;red
+A265;t198;author;1;0.1;China;CHN;red
+A267;t200;author;1;0.1;China;CHN;red
+A268;t201;author;1;0.1;China;CHN;red
+A269;t202;author;1;0.1;China;CHN;red
+A271;t203;author;1;0.1;China;CHN;red
+A293;t204;author;1;0.1;China;CHN;red
+A321;t205;author;1;0.1;China;CHN;red
+A321;t206;author;1;0.1;China;CHN;red
+A321;t207;author;1;0.1;China;CHN;red
+A322;t208;author;1;0.1;China;CHN;red
+A322;t210;author;1;0.1;China;CHN;red
+A325;t213;author;1;0.1;China;CHN;red
+A326;t214;author;1;0.1;China;CHN;red
+A327;t215;author;1;0.1;China;CHN;red
+A331;t219;author;1;0.1;China;CHN;red
+A332;t220;author;1;0.1;China;CHN;red
+A333;t221;author;1;0.1;China;CHN;red
+A334;t222;author;1;0.1;China;CHN;red
+A335;t223;author;1;0.1;China;CHN;red
+A337;t226;author;1;0.1;China;CHN;red
+A338;t227;author;1;0.1;China;CHN;red
+A341;t230;author;1;0.1;China;CHN;red
+A346;t231;author;1;0.1;China;CHN;red
+A349;t232;author;1;0.1;China;CHN;red
+A364;t248;author;1;0.1;China;CHN;red
+A403;t252;author;1;0.1;China;CHN;red
+A404;t253;author;1;0.1;China;CHN;red
+A408;t254;author;1;0.1;China;CHN;red
+A435;t255;author;1;0.1;China;CHN;red
+A465;t257;author;1;0.1;China;CHN;red
+A465;t258;author;1;0.1;China;CHN;red
+A472;t259;author;1;0.1;China;CHN;red
+A486;t260;author;1;0.1;China;CHN;red
+A486;t261;author;1;0.1;China;CHN;red
+A488;t263;author;1;0.1;China;CHN;red
+A490;t265;author;1;0.1;China;CHN;red
+A546;t268;author;1;0.1;China;CHN;red
+A550;t270;author;1;0.1;China;CHN;red
+A552;t274;author;1;0.1;China;CHN;red
+A581;t275;author;1;0.1;China;CHN;red
+A582;t276;author;1;0.1;China;CHN;red
+A589;t280;author;1;0.1;China;CHN;red
+A590;t281;author;1;0.1;China;CHN;red
+A591;t282;author;1;0.1;China;CHN;red
+A640;t286;author;1;0.1;China;CHN;red
+A642;t287;author;1;0.1;China;CHN;red
+A644;t289;author;1;0.1;China;CHN;red
+A645;t290;author;1;0.1;China;CHN;red
+A646;t291;author;1;0.1;China;CHN;red
+A665;t294;author;1;0.1;China;CHN;red
+A668;t295;author;1;0.1;China;CHN;red
+A670;t298;author;1;0.1;China;CHN;red
+A671;t299;author;1;0.1;China;CHN;red
+A672;t300;author;1;0.1;China;CHN;red
+A673;t301;author;1;0.1;China;CHN;red
+A676;t306;author;1;0.1;China;CHN;red
+A678;t308;author;1;0.1;China;CHN;red
+A682;t309;author;1;0.1;China;CHN;red
+A683;t310;author;1;0.1;China;CHN;red
+A685;t311;author;1;0.1;China;CHN;red
+A686;t312;author;1;0.1;China;CHN;red
+A687;t313;author;1;0.1;China;CHN;red
+A690;t315;author;1;0.1;China;CHN;red
+A695;t319;author;1;0.1;China;CHN;red
+A696;t320;author;1;0.1;China;CHN;red
+A697;t321;author;1;0.1;China;CHN;red
+A707;t329;author;1;0.1;China;CHN;red
+A708;t330;author;1;0.1;China;CHN;red
+A710;t331;author;1;0.1;China;CHN;red
+A714;t335;author;1;0.1;China;CHN;red
+A716;t337;author;1;0.1;China;CHN;red
+A719;t340;author;1;0.1;China;CHN;red
+A720;t341;author;1;0.1;China;CHN;red
+A722;t343;author;1;0.1;China;CHN;red
+A724;t344;author;1;0.1;China;CHN;red
+A728;t347;author;1;0.1;China;CHN;red
+A734;t355;author;1;0.1;China;CHN;red
+A738;t365;author;1;0.1;China;CHN;red
+A185;t367;author;1;0.1;Colombia;CO;chartreuse4
+A232;t375;author;1;0.1;Denmark;DK;navyblue
+A586;t383;author;1;0.1;Denmark;DK;navyblue
+A130;t511;author;1;0.1;France;FRA;blue3
+A358;t610;author;1;0.1;France;FRA;blue3
+A388;t615;author;1;0.1;France;FRA;blue3
+A450;t667;author;1;0.1;France;FRA;blue3
+A467;t694;author;1;0.1;France;FRA;blue3
+A522;t737;author;1;0.1;France;FRA;blue3
+A363;t766;author;1;0.1;Germany;GER;dodgerblue2
+A535;t793;author;1;0.1;Germany;GER;dodgerblue2
+A605;t797;author;1;0.1;Germany;GER;dodgerblue2
+A680;t801;author;1;0.1;Germany;GER;dodgerblue2
+A494;t810;author;1;0.1;India;IN;orchid4
+A548;t813;author;1;0.1;India;IN;orchid4
+A74;t866;author;1;0.1;Netherlands;NT;darkblue
+A136;t871;author;1;0.1;Netherlands;NT;darkblue
+A161;t880;author;1;0.1;Netherlands;NT;darkblue
+A479;t901;author;1;0.1;Netherlands;NT;darkblue
+A623;t922;author;1;0.1;Netherlands;NT;darkblue
+A12;t940;author;1;0.1;Portugal;PO;blue1
+A126;t941;author;1;0.1;Portugal;PO;blue1
+A127;t942;author;1;0.1;Portugal;PO;blue1
+A156;t944;author;1;0.1;Portugal;PO;blue1
+A177;t945;author;1;0.1;Portugal;PO;blue1
+A594;t948;author;1;0.1;Portugal;PO;blue1
+A596;t949;author;1;0.1;Portugal;PO;blue1
+A423;t957;author;1;0.1;Saudi Arabia;SA;goldenrod2
+A264;t960;author;1;0.1;South Korea;SK;lightcoral
+A139;t974;author;1;0.1;Spain;SP;royalblue1
+A164;t975;author;1;0.1;Spain;SP;royalblue1
+A537;t1000;author;1;0.1;Spain;SP;royalblue1
+A387;t1006;author;1;0.1;Switzerland;SW;turquoise3
+A4;t1014;author;1;0.1;United Kingdom;UK;deepskyblue4
+A40;t1023;author;1;0.1;United Kingdom;UK;deepskyblue4
+A52;t1027;author;1;0.1;United Kingdom;UK;deepskyblue4
+A68;t1032;author;1;0.1;United Kingdom;UK;deepskyblue4
+A115;t1047;author;1;0.1;United Kingdom;UK;deepskyblue4
+A180;t1054;author;1;0.1;United Kingdom;UK;deepskyblue4
+A228;t1072;author;1;0.1;United Kingdom;UK;deepskyblue4
+A242;t1077;author;1;0.1;United Kingdom;UK;deepskyblue4
+A255;t1079;author;1;0.1;United Kingdom;UK;deepskyblue4
+A276;t1083;author;1;0.1;United Kingdom;UK;deepskyblue4
+A283;t1084;author;1;0.1;United Kingdom;UK;deepskyblue4
+A409;t1108;author;1;0.1;United Kingdom;UK;deepskyblue4
+A438;t1112;author;1;0.1;United Kingdom;UK;deepskyblue4
+A467;t1121;author;1;0.1;United Kingdom;UK;deepskyblue4
+A608;t1146;author;1;0.1;United Kingdom;UK;deepskyblue4
+A654;t1152;author;1;0.1;United Kingdom;UK;deepskyblue4
+A704;t1160;author;1;0.1;United Kingdom;UK;deepskyblue4
+A14;t1166;author;1;0.1;United States;US;limegreen
+A55;t1193;author;1;0.1;United States;US;limegreen
+A92;t1200;author;1;0.1;United States;US;limegreen
+A188;t1229;author;1;0.1;United States;US;limegreen
+A206;t1234;author;1;0.1;United States;US;limegreen
+A285;t1259;author;1;0.1;United States;US;limegreen
+A287;t1263;author;1;0.1;United States;US;limegreen
+A301;t1268;author;1;0.1;United States;US;limegreen
+A336;t1274;author;1;0.1;United States;US;limegreen
+A427;t1291;author;1;0.1;United States;US;limegreen
+A470;t1298;author;1;0.1;United States;US;limegreen
+A641;t1331;author;1;0.1;United States;US;limegreen
+A641;t1332;author;1;0.1;United States;US;limegreen
+A655;t1336;author;1;0.1;United States;US;limegreen
+A693;t1345;author;1;0.1;United States;US;limegreen
+A732;t1349;author;1;0.1;United States;US;limegreen
+A197;t44;author;2;1.1;Brazil;BZ;violetred4
+A210;t46;author;2;1.1;Brazil;BZ;violetred4
+A297;t47;author;2;1.1;Brazil;BZ;violetred4
+A504;t49;author;2;1.1;Brazil;BZ;violetred4
+A243;t89;author;2;1.1;Canada;CA;olivedrab4
+A366;t109;author;2;1.1;Canada;CA;olivedrab4
+A478;t126;author;2;1.1;Canada;CA;olivedrab4
+A723;t146;author;2;1.1;Canada;CA;olivedrab4
+A98;t161;author;2;1.1;China;CHN;red
+A99;t162;author;2;1.1;China;CHN;red
+A141;t168;author;2;1.1;China;CHN;red
+A142;t169;author;2;1.1;China;CHN;red
+A172;t180;author;2;1.1;China;CHN;red
+A328;t216;author;2;1.1;China;CHN;red
+A330;t218;author;2;1.1;China;CHN;red
+A340;t229;author;2;1.1;China;CHN;red
+A352;t235;author;2;1.1;China;CHN;red
+A491;t266;author;2;1.1;China;CHN;red
+A547;t269;author;2;1.1;China;CHN;red
+A583;t277;author;2;1.1;China;CHN;red
+A609;t283;author;2;1.1;China;CHN;red
+A675;t304;author;2;1.1;China;CHN;red
+A699;t322;author;2;1.1;China;CHN;red
+A705;t323;author;2;1.1;China;CHN;red
+A705;t324;author;2;1.1;China;CHN;red
+A705;t325;author;2;1.1;China;CHN;red
+A705;t326;author;2;1.1;China;CHN;red
+A706;t327;author;2;1.1;China;CHN;red
+A706;t328;author;2;1.1;China;CHN;red
+A715;t336;author;2;1.1;China;CHN;red
+A731;t352;author;2;1.1;China;CHN;red
+A734;t354;author;2;1.1;China;CHN;red
+A17;t372;author;2;1.1;Denmark;DK;navyblue
+A85;t484;author;2;1.1;France;FRA;blue3
+A727;t802;author;2;1.1;Germany;GER;dodgerblue2
+A239;t857;author;2;1.1;Kuwait;KW;tan4
+A612;t913;author;2;1.1;Netherlands;NT;darkblue
+A516;t963;author;2;1.1;South Korea;SK;lightcoral
+A688;t966;author;2;1.1;South Korea;SK;lightcoral
+A415;t989;author;2;1.1;Spain;SP;royalblue1
+A257;t1080;author;2;1.1;United Kingdom;UK;deepskyblue4
+A395;t1105;author;2;1.1;United Kingdom;UK;deepskyblue4
+A395;t1106;author;2;1.1;United Kingdom;UK;deepskyblue4
+A468;t1122;author;2;1.1;United Kingdom;UK;deepskyblue4
+A468;t1123;author;2;1.1;United Kingdom;UK;deepskyblue4
+A474;t1126;author;2;1.1;United Kingdom;UK;deepskyblue4
+A477;t1127;author;2;1.1;United Kingdom;UK;deepskyblue4
+A477;t1128;author;2;1.1;United Kingdom;UK;deepskyblue4
+A694;t1159;author;2;1.1;United Kingdom;UK;deepskyblue4
+A5;t1162;author;2;1.1;United States;US;limegreen
+A66;t1196;author;2;1.1;United States;US;limegreen
+A107;t1203;author;2;1.1;United States;US;limegreen
+A202;t1233;author;2;1.1;United States;US;limegreen
+A347;t1278;author;2;1.1;United States;US;limegreen
+A380;t1283;author;2;1.1;United States;US;limegreen
+A424;t1290;author;2;1.1;United States;US;limegreen
+A519;t1305;author;2;1.1;United States;US;limegreen
+A544;t1311;author;2;1.1;United States;US;limegreen
+A603;t1325;author;2;1.1;United States;US;limegreen
+A620;t1329;author;2;1.1;United States;US;limegreen
+A684;t1344;author;2;1.1;United States;US;limegreen
+A457;t14;author;3;1.68;Australia;A;yellow4
+A367;t111;author;3;1.68;Canada;CA;olivedrab4
+A399;t113;author;3;1.68;Canada;CA;olivedrab4
+A399;t114;author;3;1.68;Canada;CA;olivedrab4
+A399;t115;author;3;1.68;Canada;CA;olivedrab4
+A399;t116;author;3;1.68;Canada;CA;olivedrab4
+A401;t117;author;3;1.68;Canada;CA;olivedrab4
+A401;t118;author;3;1.68;Canada;CA;olivedrab4
+A401;t119;author;3;1.68;Canada;CA;olivedrab4
+A401;t120;author;3;1.68;Canada;CA;olivedrab4
+A478;t127;author;3;1.68;Canada;CA;olivedrab4
+A574;t140;author;3;1.68;Canada;CA;olivedrab4
+A574;t141;author;3;1.68;Canada;CA;olivedrab4
+A574;t142;author;3;1.68;Canada;CA;olivedrab4
+A574;t143;author;3;1.68;Canada;CA;olivedrab4
+A514;t150;author;3;1.68;Chile;CHL;palegreen4
+A230;t191;author;3;1.68;China;CHN;red
+A266;t199;author;3;1.68;China;CHN;red
+A353;t236;author;3;1.68;China;CHN;red
+A638;t284;author;3;1.68;China;CHN;red
+A643;t288;author;3;1.68;China;CHN;red
+A691;t316;author;3;1.68;China;CHN;red
+A691;t317;author;3;1.68;China;CHN;red
+A737;t364;author;3;1.68;China;CHN;red
+A82;t366;author;3;1.68;Colombia;CO;chartreuse4
+A22;t753;author;3;1.68;Germany;GER;dodgerblue2
+A30;t754;author;3;1.68;Germany;GER;dodgerblue2
+A48;t757;author;3;1.68;Germany;GER;dodgerblue2
+A493;t809;author;3;1.68;India;IN;orchid4
+A542;t812;author;3;1.68;India;IN;orchid4
+A360;t818;author;3;1.68;Ireland;IR;cornflowerblue
+A76;t826;author;3;1.68;Italy;IT;slateblue3
+A201;t837;author;3;1.68;Italy;IT;slateblue3
+A136;t873;author;3;1.68;Netherlands;NT;darkblue
+A419;t893;author;3;1.68;Netherlands;NT;darkblue
+A309;t936;author;3;1.68;Norway;NO;cyan4
+A566;t955;author;3;1.68;Russian Federation;RU;orangered3
+A218;t982;author;3;1.68;Spain;SP;royalblue1
+A384;t988;author;3;1.68;Spain;SP;royalblue1
+A451;t992;author;3;1.68;Spain;SP;royalblue1
+A28;t1021;author;3;1.68;United Kingdom;UK;deepskyblue4
+A41;t1024;author;3;1.68;United Kingdom;UK;deepskyblue4
+A60;t1030;author;3;1.68;United Kingdom;UK;deepskyblue4
+A71;t1036;author;3;1.68;United Kingdom;UK;deepskyblue4
+A290;t1086;author;3;1.68;United Kingdom;UK;deepskyblue4
+A398;t1107;author;3;1.68;United Kingdom;UK;deepskyblue4
+A456;t1119;author;3;1.68;United Kingdom;UK;deepskyblue4
+A558;t1136;author;3;1.68;United Kingdom;UK;deepskyblue4
+A558;t1137;author;3;1.68;United Kingdom;UK;deepskyblue4
+A558;t1138;author;3;1.68;United Kingdom;UK;deepskyblue4
+A558;t1139;author;3;1.68;United Kingdom;UK;deepskyblue4
+A7;t1164;author;3;1.68;United States;US;limegreen
+A95;t1201;author;3;1.68;United States;US;limegreen
+A110;t1204;author;3;1.68;United States;US;limegreen
+A198;t1230;author;3;1.68;United States;US;limegreen
+A261;t1254;author;3;1.68;United States;US;limegreen
+A278;t1256;author;3;1.68;United States;US;limegreen
+A279;t1257;author;3;1.68;United States;US;limegreen
+A373;t1280;author;3;1.68;United States;US;limegreen
+A437;t1294;author;3;1.68;United States;US;limegreen
+A564;t1315;author;3;1.68;United States;US;limegreen
+A595;t1324;author;3;1.68;United States;US;limegreen
+A632;t1330;author;3;1.68;United States;US;limegreen
+A501;t128;author;4;2.1;Canada;CA;olivedrab4
+A501;t129;author;4;2.1;Canada;CA;olivedrab4
+A501;t130;author;4;2.1;Canada;CA;olivedrab4
+A501;t131;author;4;2.1;Canada;CA;olivedrab4
+A323;t211;author;4;2.1;China;CHN;red
+A336;t224;author;4;2.1;China;CHN;red
+A336;t225;author;4;2.1;China;CHN;red
+A362;t247;author;4;2.1;China;CHN;red
+A371;t250;author;4;2.1;China;CHN;red
+A371;t251;author;4;2.1;China;CHN;red
+A487;t262;author;4;2.1;China;CHN;red
+A545;t267;author;4;2.1;China;CHN;red
+A588;t279;author;4;2.1;China;CHN;red
+A647;t292;author;4;2.1;China;CHN;red
+A730;t350;author;4;2.1;China;CHN;red
+A730;t351;author;4;2.1;China;CHN;red
+A512;t369;author;4;2.1;Croatia;CRO;royalblue2
+A575;t370;author;4;2.1;Croatia;CRO;royalblue2
+A517;t381;author;4;2.1;Denmark;DK;navyblue
+A248;t533;author;4;2.1;France;FRA;blue3
+A248;t534;author;4;2.1;France;FRA;blue3
+A248;t535;author;4;2.1;France;FRA;blue3
+A248;t536;author;4;2.1;France;FRA;blue3
+A236;t760;author;4;2.1;Germany;GER;dodgerblue2
+A376;t806;author;4;2.1;India;IN;orchid4
+A195;t835;author;4;2.1;Italy;IT;slateblue3
+A417;t844;author;4;2.1;Italy;IT;slateblue3
+A625;t924;author;4;2.1;Netherlands;NT;darkblue
+A627;t926;author;4;2.1;Netherlands;NT;darkblue
+A48;t968;author;4;2.1;Spain;SP;royalblue1
+A211;t981;author;4;2.1;Spain;SP;royalblue1
+A513;t995;author;4;2.1;Spain;SP;royalblue1
+A619;t1011;author;4;2.1;Thailand;TH;purple3
+A9;t1015;author;4;2.1;United Kingdom;UK;deepskyblue4
+A216;t1060;author;4;2.1;United Kingdom;UK;deepskyblue4
+A433;t1111;author;4;2.1;United Kingdom;UK;deepskyblue4
+A458;t1120;author;4;2.1;United Kingdom;UK;deepskyblue4
+A615;t1147;author;4;2.1;United Kingdom;UK;deepskyblue4
+A63;t1195;author;4;2.1;United States;US;limegreen
+A73;t1198;author;4;2.1;United States;US;limegreen
+A114;t1206;author;4;2.1;United States;US;limegreen
+A148;t1213;author;4;2.1;United States;US;limegreen
+A176;t1225;author;4;2.1;United States;US;limegreen
+A370;t1279;author;4;2.1;United States;US;limegreen
+A392;t1284;author;4;2.1;United States;US;limegreen
+A505;t1303;author;4;2.1;United States;US;limegreen
+A541;t1309;author;4;2.1;United States;US;limegreen
+A579;t1321;author;4;2.1;United States;US;limegreen
+A666;t1339;author;4;2.1;United States;US;limegreen
+A143;t3;author;5;2.42;Australia;A;yellow4
+A143;t4;author;5;2.42;Australia;A;yellow4
+A143;t5;author;5;2.42;Australia;A;yellow4
+A129;t66;author;5;2.42;Canada;CA;olivedrab4
+A224;t82;author;5;2.42;Canada;CA;olivedrab4
+A559;t139;author;5;2.42;Canada;CA;olivedrab4
+A78;t148;author;5;2.42;Chile;CHL;palegreen4
+A38;t152;author;5;2.42;China;CHN;red
+A38;t153;author;5;2.42;China;CHN;red
+A329;t217;author;5;2.42;China;CHN;red
+A676;t305;author;5;2.42;China;CHN;red
+A692;t318;author;5;2.42;China;CHN;red
+A717;t338;author;5;2.42;China;CHN;red
+A721;t342;author;5;2.42;China;CHN;red
+A64;t475;author;5;2.42;France;FRA;blue3
+A64;t476;author;5;2.42;France;FRA;blue3
+A64;t477;author;5;2.42;France;FRA;blue3
+A64;t478;author;5;2.42;France;FRA;blue3
+A431;t642;author;5;2.42;France;FRA;blue3
+A480;t695;author;5;2.42;France;FRA;blue3
+A480;t696;author;5;2.42;France;FRA;blue3
+A480;t697;author;5;2.42;France;FRA;blue3
+A480;t698;author;5;2.42;France;FRA;blue3
+A511;t732;author;5;2.42;France;FRA;blue3
+A511;t733;author;5;2.42;France;FRA;blue3
+A511;t734;author;5;2.42;France;FRA;blue3
+A511;t735;author;5;2.42;France;FRA;blue3
+A511;t736;author;5;2.42;France;FRA;blue3
+A538;t741;author;5;2.42;France;FRA;blue3
+A538;t742;author;5;2.42;France;FRA;blue3
+A538;t743;author;5;2.42;France;FRA;blue3
+A538;t744;author;5;2.42;France;FRA;blue3
+A538;t745;author;5;2.42;France;FRA;blue3
+A396;t767;author;5;2.42;Germany;GER;dodgerblue2
+A549;t814;author;5;2.42;India;IN;orchid4
+A121;t830;author;5;2.42;Italy;IT;slateblue3
+A381;t843;author;5;2.42;Italy;IT;slateblue3
+A13;t855;author;5;2.42;Kuwait;KW;tan4
+A13;t856;author;5;2.42;Kuwait;KW;tan4
+A167;t881;author;5;2.42;Netherlands;NT;darkblue
+A241;t882;author;5;2.42;Netherlands;NT;darkblue
+A241;t883;author;5;2.42;Netherlands;NT;darkblue
+A292;t887;author;5;2.42;Netherlands;NT;darkblue
+A656;t930;author;5;2.42;Netherlands;NT;darkblue
+A67;t952;author;5;2.42;Russian Federation;RU;orangered3
+A453;t958;author;5;2.42;Serbia;SE;lightblue3
+A190;t976;author;5;2.42;Spain;SP;royalblue1
+A208;t978;author;5;2.42;Spain;SP;royalblue1
+A357;t984;author;5;2.42;Spain;SP;royalblue1
+A633;t1002;author;5;2.42;Spain;SP;royalblue1
+A526;t1007;author;5;2.42;Thailand;TH;purple3
+A526;t1008;author;5;2.42;Thailand;TH;purple3
+A619;t1012;author;5;2.42;Thailand;TH;purple3
+A39;t1022;author;5;2.42;United Kingdom;UK;deepskyblue4
+A163;t1053;author;5;2.42;United Kingdom;UK;deepskyblue4
+A275;t1082;author;5;2.42;United Kingdom;UK;deepskyblue4
+A412;t1109;author;5;2.42;United Kingdom;UK;deepskyblue4
+A521;t1131;author;5;2.42;United Kingdom;UK;deepskyblue4
+A521;t1132;author;5;2.42;United Kingdom;UK;deepskyblue4
+A521;t1133;author;5;2.42;United Kingdom;UK;deepskyblue4
+A50;t1189;author;5;2.42;United States;US;limegreen
+A244;t1251;author;5;2.42;United States;US;limegreen
+A443;t1296;author;5;2.42;United States;US;limegreen
+A525;t1306;author;5;2.42;United States;US;limegreen
+A525;t1307;author;5;2.42;United States;US;limegreen
+A533;t1308;author;5;2.42;United States;US;limegreen
+A562;t1314;author;5;2.42;United States;US;limegreen
+A712;t33;author;6;2.68;Australia;A;yellow4
+A712;t34;author;6;2.68;Australia;A;yellow4
+A712;t35;author;6;2.68;Australia;A;yellow4
+A712;t36;author;6;2.68;Australia;A;yellow4
+A712;t37;author;6;2.68;Australia;A;yellow4
+A509;t50;author;6;2.68;Brazil;BZ;violetred4
+A182;t72;author;6;2.68;Canada;CA;olivedrab4
+A182;t73;author;6;2.68;Canada;CA;olivedrab4
+A182;t74;author;6;2.68;Canada;CA;olivedrab4
+A182;t75;author;6;2.68;Canada;CA;olivedrab4
+A182;t76;author;6;2.68;Canada;CA;olivedrab4
+A221;t185;author;6;2.68;China;CHN;red
+A221;t186;author;6;2.68;China;CHN;red
+A221;t187;author;6;2.68;China;CHN;red
+A250;t193;author;6;2.68;China;CHN;red
+A250;t194;author;6;2.68;China;CHN;red
+A489;t264;author;6;2.68;China;CHN;red
+A584;t278;author;6;2.68;China;CHN;red
+A674;t302;author;6;2.68;China;CHN;red
+A674;t303;author;6;2.68;China;CHN;red
+A677;t307;author;6;2.68;China;CHN;red
+A46;t368;author;6;2.68;Croatia;CRO;royalblue2
+A378;t612;author;6;2.68;France;FRA;blue3
+A378;t613;author;6;2.68;France;FRA;blue3
+A416;t639;author;6;2.68;France;FRA;blue3
+A416;t640;author;6;2.68;France;FRA;blue3
+A416;t641;author;6;2.68;France;FRA;blue3
+A634;t748;author;6;2.68;France;FRA;blue3
+A634;t749;author;6;2.68;France;FRA;blue3
+A634;t750;author;6;2.68;France;FRA;blue3
+A634;t751;author;6;2.68;France;FRA;blue3
+A634;t752;author;6;2.68;France;FRA;blue3
+A260;t762;author;6;2.68;Germany;GER;dodgerblue2
+A260;t763;author;6;2.68;Germany;GER;dodgerblue2
+A571;t794;author;6;2.68;Germany;GER;dodgerblue2
+A617;t798;author;6;2.68;Germany;GER;dodgerblue2
+A653;t799;author;6;2.68;Germany;GER;dodgerblue2
+A112;t816;author;6;2.68;Ireland;IR;cornflowerblue
+A282;t885;author;6;2.68;Netherlands;NT;darkblue
+A282;t886;author;6;2.68;Netherlands;NT;darkblue
+A740;t932;author;6;2.68;Netherlands;NT;darkblue
+A611;t950;author;6;2.68;Portugal;PO;blue1
+A375;t985;author;6;2.68;Spain;SP;royalblue1
+A570;t1001;author;6;2.68;Spain;SP;royalblue1
+A2;t1013;author;6;2.68;United Kingdom;UK;deepskyblue4
+A106;t1043;author;6;2.68;United Kingdom;UK;deepskyblue4
+A305;t1088;author;6;2.68;United Kingdom;UK;deepskyblue4
+A385;t1099;author;6;2.68;United Kingdom;UK;deepskyblue4
+A440;t1113;author;6;2.68;United Kingdom;UK;deepskyblue4
+A440;t1114;author;6;2.68;United Kingdom;UK;deepskyblue4
+A469;t1124;author;6;2.68;United Kingdom;UK;deepskyblue4
+A131;t1209;author;6;2.68;United States;US;limegreen
+A178;t1226;author;6;2.68;United States;US;limegreen
+A226;t1241;author;6;2.68;United States;US;limegreen
+A291;t1265;author;6;2.68;United States;US;limegreen
+A543;t1310;author;6;2.68;United States;US;limegreen
+A573;t1317;author;6;2.68;United States;US;limegreen
+A573;t1318;author;6;2.68;United States;US;limegreen
+A585;t1322;author;6;2.68;United States;US;limegreen
+A192;t181;author;7;2.91;China;CHN;red
+A223;t190;author;7;2.91;China;CHN;red
+A322;t209;author;7;2.91;China;CHN;red
+A639;t285;author;7;2.91;China;CHN;red
+A718;t339;author;7;2.91;China;CHN;red
+A735;t356;author;7;2.91;China;CHN;red
+A735;t357;author;7;2.91;China;CHN;red
+A735;t358;author;7;2.91;China;CHN;red
+A735;t359;author;7;2.91;China;CHN;red
+A16;t371;author;7;2.91;Denmark;DK;navyblue
+A61;t471;author;7;2.91;France;FRA;blue3
+A61;t472;author;7;2.91;France;FRA;blue3
+A61;t473;author;7;2.91;France;FRA;blue3
+A61;t474;author;7;2.91;France;FRA;blue3
+A425;t808;author;7;2.91;India;IN;orchid4
+A149;t831;author;7;2.91;Italy;IT;slateblue3
+A455;t848;author;7;2.91;Italy;IT;slateblue3
+A55;t861;author;7;2.91;Netherlands;NT;darkblue
+A158;t878;author;7;2.91;Netherlands;NT;darkblue
+A158;t879;author;7;2.91;Netherlands;NT;darkblue
+A1;t933;author;7;2.91;Norway;NO;cyan4
+A194;t946;author;7;2.91;Portugal;PO;blue1
+A382;t986;author;7;2.91;Spain;SP;royalblue1
+A382;t987;author;7;2.91;Spain;SP;royalblue1
+A48;t1004;author;7;2.91;Switzerland;SW;turquoise3
+A65;t1031;author;7;2.91;United Kingdom;UK;deepskyblue4
+A155;t1051;author;7;2.91;United Kingdom;UK;deepskyblue4
+A212;t1058;author;7;2.91;United Kingdom;UK;deepskyblue4
+A306;t1089;author;7;2.91;United Kingdom;UK;deepskyblue4
+A529;t1134;author;7;2.91;United Kingdom;UK;deepskyblue4
+A62;t1194;author;7;2.91;United States;US;limegreen
+A153;t1214;author;7;2.91;United States;US;limegreen
+A303;t1270;author;7;2.91;United States;US;limegreen
+A462;t1297;author;7;2.91;United States;US;limegreen
+A483;t1300;author;7;2.91;United States;US;limegreen
+A567;t1316;author;7;2.91;United States;US;limegreen
+A606;t1326;author;7;2.91;United States;US;limegreen
+A48;t56;author;8;3.1;Canada;CA;olivedrab4
+A281;t92;author;8;3.1;Canada;CA;olivedrab4
+A281;t93;author;8;3.1;Canada;CA;olivedrab4
+A281;t94;author;8;3.1;Canada;CA;olivedrab4
+A281;t95;author;8;3.1;Canada;CA;olivedrab4
+A294;t96;author;8;3.1;Canada;CA;olivedrab4
+A294;t97;author;8;3.1;Canada;CA;olivedrab4
+A294;t98;author;8;3.1;Canada;CA;olivedrab4
+A294;t99;author;8;3.1;Canada;CA;olivedrab4
+A294;t100;author;8;3.1;Canada;CA;olivedrab4
+A361;t238;author;8;3.1;China;CHN;red
+A361;t239;author;8;3.1;China;CHN;red
+A361;t240;author;8;3.1;China;CHN;red
+A361;t241;author;8;3.1;China;CHN;red
+A361;t242;author;8;3.1;China;CHN;red
+A361;t243;author;8;3.1;China;CHN;red
+A361;t244;author;8;3.1;China;CHN;red
+A361;t245;author;8;3.1;China;CHN;red
+A361;t246;author;8;3.1;China;CHN;red
+A551;t271;author;8;3.1;China;CHN;red
+A551;t272;author;8;3.1;China;CHN;red
+A551;t273;author;8;3.1;China;CHN;red
+A410;t379;author;8;3.1;Denmark;DK;navyblue
+A410;t380;author;8;3.1;Denmark;DK;navyblue
+A698;t384;author;8;3.1;Denmark;DK;navyblue
+A21;t409;author;8;3.1;France;FRA;blue3
+A21;t410;author;8;3.1;France;FRA;blue3
+A21;t411;author;8;3.1;France;FRA;blue3
+A21;t412;author;8;3.1;France;FRA;blue3
+A21;t413;author;8;3.1;France;FRA;blue3
+A21;t414;author;8;3.1;France;FRA;blue3
+A21;t415;author;8;3.1;France;FRA;blue3
+A21;t416;author;8;3.1;France;FRA;blue3
+A86;t485;author;8;3.1;France;FRA;blue3
+A86;t486;author;8;3.1;France;FRA;blue3
+A86;t487;author;8;3.1;France;FRA;blue3
+A86;t488;author;8;3.1;France;FRA;blue3
+A86;t489;author;8;3.1;France;FRA;blue3
+A86;t490;author;8;3.1;France;FRA;blue3
+A86;t491;author;8;3.1;France;FRA;blue3
+A145;t513;author;8;3.1;France;FRA;blue3
+A145;t514;author;8;3.1;France;FRA;blue3
+A145;t515;author;8;3.1;France;FRA;blue3
+A145;t516;author;8;3.1;France;FRA;blue3
+A145;t517;author;8;3.1;France;FRA;blue3
+A145;t518;author;8;3.1;France;FRA;blue3
+A145;t519;author;8;3.1;France;FRA;blue3
+A145;t520;author;8;3.1;France;FRA;blue3
+A397;t616;author;8;3.1;France;FRA;blue3
+A397;t617;author;8;3.1;France;FRA;blue3
+A397;t618;author;8;3.1;France;FRA;blue3
+A499;t708;author;8;3.1;France;FRA;blue3
+A499;t709;author;8;3.1;France;FRA;blue3
+A499;t710;author;8;3.1;France;FRA;blue3
+A499;t711;author;8;3.1;France;FRA;blue3
+A402;t892;author;8;3.1;Netherlands;NT;darkblue
+A8;t956;author;8;3.1;Saudi Arabia;SA;goldenrod2
+A520;t996;author;8;3.1;Spain;SP;royalblue1
+A520;t997;author;8;3.1;Spain;SP;royalblue1
+A527;t998;author;8;3.1;Spain;SP;royalblue1
+A249;t1252;author;8;3.1;United States;US;limegreen
+A298;t1267;author;8;3.1;United States;US;limegreen
+A317;t1272;author;8;3.1;United States;US;limegreen
+A379;t1282;author;8;3.1;United States;US;limegreen
+A120;t2;author;9;3.27;Australia;A;yellow4
+A510;t133;author;9;3.27;Canada;CA;olivedrab4
+A510;t134;author;9;3.27;Canada;CA;olivedrab4
+A510;t135;author;9;3.27;Canada;CA;olivedrab4
+A510;t136;author;9;3.27;Canada;CA;olivedrab4
+A272;t378;author;9;3.27;Denmark;DK;navyblue
+A259;t761;author;9;3.27;Germany;GER;dodgerblue2
+A463;t777;author;9;3.27;Germany;GER;dodgerblue2
+A523;t789;author;9;3.27;Germany;GER;dodgerblue2
+A83;t815;author;9;3.27;Ireland;IR;cornflowerblue
+A245;t884;author;9;3.27;Netherlands;NT;darkblue
+A660;t931;author;9;3.27;Netherlands;NT;darkblue
+A473;t954;author;9;3.27;Russian Federation;RU;orangered3
+A58;t1028;author;9;3.27;United Kingdom;UK;deepskyblue4
+A630;t1148;author;9;3.27;United Kingdom;UK;deepskyblue4
+A133;t1210;author;9;3.27;United States;US;limegreen
+A235;t1244;author;9;3.27;United States;US;limegreen
+A235;t1245;author;9;3.27;United States;US;limegreen
+A235;t1246;author;9;3.27;United States;US;limegreen
+A235;t1247;author;9;3.27;United States;US;limegreen
+A235;t1248;author;9;3.27;United States;US;limegreen
+A235;t1249;author;9;3.27;United States;US;limegreen
+A235;t1250;author;9;3.27;United States;US;limegreen
+A434;t1293;author;9;3.27;United States;US;limegreen
+A394;t6;author;10;3.42;Australia;A;yellow4
+A394;t7;author;10;3.42;Australia;A;yellow4
+A394;t8;author;10;3.42;Australia;A;yellow4
+A394;t9;author;10;3.42;Australia;A;yellow4
+A394;t10;author;10;3.42;Australia;A;yellow4
+A394;t11;author;10;3.42;Australia;A;yellow4
+A394;t12;author;10;3.42;Australia;A;yellow4
+A394;t13;author;10;3.42;Australia;A;yellow4
+A256;t91;author;10;3.42;Canada;CA;olivedrab4
+A308;t102;author;10;3.42;Canada;CA;olivedrab4
+A308;t103;author;10;3.42;Canada;CA;olivedrab4
+A557;t138;author;10;3.42;Canada;CA;olivedrab4
+A170;t175;author;10;3.42;China;CHN;red
+A170;t176;author;10;3.42;China;CHN;red
+A170;t177;author;10;3.42;China;CHN;red
+A170;t178;author;10;3.42;China;CHN;red
+A144;t512;author;10;3.42;France;FRA;blue3
+A530;t738;author;10;3.42;France;FRA;blue3
+A530;t739;author;10;3.42;France;FRA;blue3
+A530;t740;author;10;3.42;France;FRA;blue3
+A498;t780;author;10;3.42;Germany;GER;dodgerblue2
+A506;t781;author;10;3.42;Germany;GER;dodgerblue2
+A199;t836;author;10;3.42;Italy;IT;slateblue3
+A203;t838;author;10;3.42;Italy;IT;slateblue3
+A135;t868;author;10;3.42;Netherlands;NT;darkblue
+A135;t869;author;10;3.42;Netherlands;NT;darkblue
+A135;t870;author;10;3.42;Netherlands;NT;darkblue
+A311;t889;author;10;3.42;Netherlands;NT;darkblue
+A109;t971;author;10;3.42;Spain;SP;royalblue1
+A117;t972;author;10;3.42;Spain;SP;royalblue1
+A108;t1044;author;10;3.42;United Kingdom;UK;deepskyblue4
+A299;t1087;author;10;3.42;United Kingdom;UK;deepskyblue4
+A343;t1094;author;10;3.42;United Kingdom;UK;deepskyblue4
+A449;t1117;author;10;3.42;United Kingdom;UK;deepskyblue4
+A449;t1118;author;10;3.42;United Kingdom;UK;deepskyblue4
+A400;t1286;author;10;3.42;United States;US;limegreen
+A253;t197;author;11;3.56;China;CHN;red
+A648;t293;author;11;3.56;China;CHN;red
+A729;t348;author;11;3.56;China;CHN;red
+A729;t349;author;11;3.56;China;CHN;red
+A560;t382;author;11;3.56;Denmark;DK;navyblue
+A34;t756;author;11;3.56;Germany;GER;dodgerblue2
+A508;t782;author;11;3.56;Germany;GER;dodgerblue2
+A508;t783;author;11;3.56;Germany;GER;dodgerblue2
+A508;t784;author;11;3.56;Germany;GER;dodgerblue2
+A508;t785;author;11;3.56;Germany;GER;dodgerblue2
+A508;t786;author;11;3.56;Germany;GER;dodgerblue2
+A600;t795;author;11;3.56;Germany;GER;dodgerblue2
+A345;t890;author;11;3.56;Netherlands;NT;darkblue
+A637;t929;author;11;3.56;Netherlands;NT;darkblue
+A569;t947;author;11;3.56;Portugal;PO;blue1
+A407;t953;author;11;3.56;Russian Federation;RU;orangered3
+A428;t991;author;11;3.56;Spain;SP;royalblue1
+A635;t1003;author;11;3.56;Spain;SP;royalblue1
+A618;t1009;author;11;3.56;Thailand;TH;purple3
+A618;t1010;author;11;3.56;Thailand;TH;purple3
+A59;t1029;author;11;3.56;United Kingdom;UK;deepskyblue4
+A231;t1073;author;11;3.56;United Kingdom;UK;deepskyblue4
+A240;t1076;author;11;3.56;United Kingdom;UK;deepskyblue4
+A186;t1228;author;11;3.56;United States;US;limegreen
+A280;t1258;author;11;3.56;United States;US;limegreen
+A439;t1295;author;11;3.56;United States;US;limegreen
+A618;t1328;author;11;3.56;United States;US;limegreen
+A116;t42;author;12;3.68;Brazil;BZ;violetred4
+A128;t43;author;12;3.68;Brazil;BZ;violetred4
+A736;t360;author;12;3.68;China;CHN;red
+A736;t361;author;12;3.68;China;CHN;red
+A736;t362;author;12;3.68;China;CHN;red
+A736;t363;author;12;3.68;China;CHN;red
+A445;t776;author;12;3.68;Germany;GER;dodgerblue2
+A422;t819;author;12;3.68;Ireland;IR;cornflowerblue
+A454;t847;author;12;3.68;Italy;IT;slateblue3
+A196;t977;author;12;3.68;Spain;SP;royalblue1
+A496;t1129;author;12;3.68;United Kingdom;UK;deepskyblue4
+A123;t1207;author;12;3.68;United States;US;limegreen
+A649;t1333;author;12;3.68;United States;US;limegreen
+A654;t1335;author;12;3.68;United States;US;limegreen
+A580;t144;author;13;3.8;Canada;CA;olivedrab4
+A339;t228;author;13;3.8;China;CHN;red
+A368;t249;author;13;3.8;China;CHN;red
+A711;t332;author;13;3.8;China;CHN;red
+A711;t333;author;13;3.8;China;CHN;red
+A152;t805;author;13;3.8;India;IN;orchid4
+A540;t811;author;13;3.8;India;IN;orchid4
+A622;t916;author;13;3.8;Netherlands;NT;darkblue
+A622;t917;author;13;3.8;Netherlands;NT;darkblue
+A622;t918;author;13;3.8;Netherlands;NT;darkblue
+A622;t919;author;13;3.8;Netherlands;NT;darkblue
+A11;t939;author;13;3.8;Portugal;PO;blue1
+A528;t999;author;13;3.8;Spain;SP;royalblue1
+A113;t1045;author;13;3.8;United Kingdom;UK;deepskyblue4
+A113;t1046;author;13;3.8;United Kingdom;UK;deepskyblue4
+A147;t1050;author;13;3.8;United Kingdom;UK;deepskyblue4
+A217;t1071;author;13;3.8;United Kingdom;UK;deepskyblue4
+A284;t1085;author;13;3.8;United Kingdom;UK;deepskyblue4
+A313;t1090;author;13;3.8;United Kingdom;UK;deepskyblue4
+A3;t1161;author;13;3.8;United States;US;limegreen
+A53;t1190;author;13;3.8;United States;US;limegreen
+A159;t67;author;14;3.91;Canada;CA;olivedrab4
+A189;t522;author;14;3.91;France;FRA;blue3
+A189;t523;author;14;3.91;France;FRA;blue3
+A189;t524;author;14;3.91;France;FRA;blue3
+A189;t525;author;14;3.91;France;FRA;blue3
+A189;t526;author;14;3.91;France;FRA;blue3
+A189;t527;author;14;3.91;France;FRA;blue3
+A189;t528;author;14;3.91;France;FRA;blue3
+A189;t529;author;14;3.91;France;FRA;blue3
+A189;t530;author;14;3.91;France;FRA;blue3
+A189;t531;author;14;3.91;France;FRA;blue3
+A189;t532;author;14;3.91;France;FRA;blue3
+A481;t699;author;14;3.91;France;FRA;blue3
+A481;t700;author;14;3.91;France;FRA;blue3
+A481;t701;author;14;3.91;France;FRA;blue3
+A481;t702;author;14;3.91;France;FRA;blue3
+A481;t703;author;14;3.91;France;FRA;blue3
+A459;t898;author;14;3.91;Netherlands;NT;darkblue
+A460;t899;author;14;3.91;Netherlands;NT;darkblue
+A629;t928;author;14;3.91;Netherlands;NT;darkblue
+A10;t1165;author;14;3.91;United States;US;limegreen
+A515;t1304;author;14;3.91;United States;US;limegreen
+A555;t1313;author;14;3.91;United States;US;limegreen
+A318;t104;author;15;4.01;Canada;CA;olivedrab4
+A171;t179;author;15;4.01;China;CHN;red
+A485;t704;author;15;4.01;France;FRA;blue3
+A485;t705;author;15;4.01;France;FRA;blue3
+A485;t706;author;15;4.01;France;FRA;blue3
+A485;t707;author;15;4.01;France;FRA;blue3
+A119;t817;author;15;4.01;Ireland;IR;cornflowerblue
+A316;t842;author;15;4.01;Italy;IT;slateblue3
+A295;t935;author;15;4.01;Norway;NO;cyan4
+A414;t1110;author;15;4.01;United Kingdom;UK;deepskyblue4
+A48;t1188;author;15;4.01;United States;US;limegreen
+A701;t1347;author;15;4.01;United States;US;limegreen
+A703;t1348;author;15;4.01;United States;US;limegreen
+A709;t24;author;16;4.1;Australia;A;yellow4
+A709;t25;author;16;4.1;Australia;A;yellow4
+A709;t26;author;16;4.1;Australia;A;yellow4
+A709;t27;author;16;4.1;Australia;A;yellow4
+A709;t28;author;16;4.1;Australia;A;yellow4
+A709;t29;author;16;4.1;Australia;A;yellow4
+A709;t30;author;16;4.1;Australia;A;yellow4
+A709;t31;author;16;4.1;Australia;A;yellow4
+A709;t32;author;16;4.1;Australia;A;yellow4
+A165;t373;author;16;4.1;Denmark;DK;navyblue
+A166;t374;author;16;4.1;Denmark;DK;navyblue
+A168;t759;author;16;4.1;Germany;GER;dodgerblue2
+A173;t832;author;16;4.1;Italy;IT;slateblue3
+A482;t850;author;16;4.1;Italy;IT;slateblue3
+A702;t967;author;16;4.1;South Korea;SK;lightcoral
+A270;t983;author;16;4.1;Spain;SP;royalblue1
+A183;t1055;author;16;4.1;United Kingdom;UK;deepskyblue4
+A662;t1157;author;16;4.1;United Kingdom;UK;deepskyblue4
+A36;t1186;author;16;4.1;United States;US;limegreen
+A578;t39;author;17;4.19;Austria;AUS;royalblue4
+A386;t149;author;17;4.19;Chile;CHL;palegreen4
+A193;t183;author;17;4.19;China;CHN;red
+A179;t521;author;17;4.19;France;FRA;blue3
+A599;t746;author;17;4.19;France;FRA;blue3
+A355;t765;author;17;4.19;Germany;GER;dodgerblue2
+A300;t804;author;17;4.19;Greece;GRE;cadetblue3
+A524;t959;author;17;4.19;Singapore;SI;pink
+A19;t1016;author;17;4.19;United Kingdom;UK;deepskyblue4
+A356;t1096;author;17;4.19;United Kingdom;UK;deepskyblue4
+A389;t1100;author;17;4.19;United Kingdom;UK;deepskyblue4
+A389;t1101;author;17;4.19;United Kingdom;UK;deepskyblue4
+A389;t1102;author;17;4.19;United Kingdom;UK;deepskyblue4
+A146;t1212;author;17;4.19;United States;US;limegreen
+A258;t1253;author;17;4.19;United States;US;limegreen
+A592;t1323;author;17;4.19;United States;US;limegreen
+A667;t1340;author;17;4.19;United States;US;limegreen
+A667;t1341;author;17;4.19;United States;US;limegreen
+A700;t1346;author;17;4.19;United States;US;limegreen
+A448;t48;author;18;4.27;Brazil;BZ;violetred4
+A48;t457;author;18;4.27;France;FRA;blue3
+A48;t458;author;18;4.27;France;FRA;blue3
+A48;t459;author;18;4.27;France;FRA;blue3
+A48;t460;author;18;4.27;France;FRA;blue3
+A48;t461;author;18;4.27;France;FRA;blue3
+A48;t462;author;18;4.27;France;FRA;blue3
+A48;t463;author;18;4.27;France;FRA;blue3
+A48;t464;author;18;4.27;France;FRA;blue3
+A48;t465;author;18;4.27;France;FRA;blue3
+A310;t585;author;18;4.27;France;FRA;blue3
+A310;t586;author;18;4.27;France;FRA;blue3
+A310;t587;author;18;4.27;France;FRA;blue3
+A310;t588;author;18;4.27;France;FRA;blue3
+A310;t589;author;18;4.27;France;FRA;blue3
+A310;t590;author;18;4.27;France;FRA;blue3
+A310;t591;author;18;4.27;France;FRA;blue3
+A310;t592;author;18;4.27;France;FRA;blue3
+A310;t593;author;18;4.27;France;FRA;blue3
+A310;t594;author;18;4.27;France;FRA;blue3
+A310;t595;author;18;4.27;France;FRA;blue3
+A310;t596;author;18;4.27;France;FRA;blue3
+A310;t597;author;18;4.27;France;FRA;blue3
+A310;t598;author;18;4.27;France;FRA;blue3
+A310;t599;author;18;4.27;France;FRA;blue3
+A310;t600;author;18;4.27;France;FRA;blue3
+A310;t601;author;18;4.27;France;FRA;blue3
+A310;t602;author;18;4.27;France;FRA;blue3
+A310;t603;author;18;4.27;France;FRA;blue3
+A310;t604;author;18;4.27;France;FRA;blue3
+A310;t605;author;18;4.27;France;FRA;blue3
+A310;t606;author;18;4.27;France;FRA;blue3
+A310;t607;author;18;4.27;France;FRA;blue3
+A310;t608;author;18;4.27;France;FRA;blue3
+A310;t609;author;18;4.27;France;FRA;blue3
+A432;t846;author;18;4.27;Italy;IT;slateblue3
+A421;t990;author;18;4.27;Spain;SP;royalblue1
+A70;t1033;author;18;4.27;United Kingdom;UK;deepskyblue4
+A70;t1034;author;18;4.27;United Kingdom;UK;deepskyblue4
+A70;t1035;author;18;4.27;United Kingdom;UK;deepskyblue4
+A661;t1156;author;18;4.27;United Kingdom;UK;deepskyblue4
+A342;t1275;author;18;4.27;United States;US;limegreen
+A503;t1302;author;18;4.27;United States;US;limegreen
+A658;t1337;author;18;4.27;United States;US;limegreen
+A507;t132;author;19;4.35;Canada;CA;olivedrab4
+A689;t314;author;19;4.35;China;CHN;red
+A725;t345;author;19;4.35;China;CHN;red
+A565;t821;author;19;4.35;Israel;IS;steelblue2
+A42;t823;author;19;4.35;Italy;IT;slateblue3
+A539;t902;author;19;4.35;Netherlands;NT;darkblue
+A539;t903;author;19;4.35;Netherlands;NT;darkblue
+A539;t904;author;19;4.35;Netherlands;NT;darkblue
+A539;t905;author;19;4.35;Netherlands;NT;darkblue
+A539;t906;author;19;4.35;Netherlands;NT;darkblue
+A539;t907;author;19;4.35;Netherlands;NT;darkblue
+A628;t927;author;19;4.35;Netherlands;NT;darkblue
+A616;t937;author;19;4.35;Norway;NO;cyan4
+A157;t1052;author;19;4.35;United Kingdom;UK;deepskyblue4
+A604;t1145;author;19;4.35;United Kingdom;UK;deepskyblue4
+A31;t54;author;20;4.42;Canada;CA;olivedrab4
+A93;t157;author;20;4.42;China;CHN;red
+A233;t192;author;20;4.42;China;CHN;red
+A48;t824;author;20;4.42;Italy;IT;slateblue3
+A191;t834;author;20;4.42;Italy;IT;slateblue3
+A532;t851;author;20;4.42;Italy;IT;slateblue3
+A492;t994;author;20;4.42;Spain;SP;royalblue1
+A237;t1074;author;20;4.42;United Kingdom;UK;deepskyblue4
+A237;t1075;author;20;4.42;United Kingdom;UK;deepskyblue4
+A733;t353;author;21;4.49;China;CHN;red
+A664;t800;author;21;4.49;Germany;GER;dodgerblue2
+A91;t858;author;21;4.49;Mexico;MX;springgreen4
+A184;t1056;author;21;4.49;United Kingdom;UK;deepskyblue4
+A184;t1057;author;21;4.49;United Kingdom;UK;deepskyblue4
+A681;t1342;author;21;4.49;United States;US;limegreen
+A681;t1343;author;21;4.49;United States;US;limegreen
+A476;t122;author;22;4.56;Canada;CA;olivedrab4
+A476;t123;author;22;4.56;Canada;CA;olivedrab4
+A55;t758;author;22;4.56;Germany;GER;dodgerblue2
+A430;t771;author;22;4.56;Germany;GER;dodgerblue2
+A430;t772;author;22;4.56;Germany;GER;dodgerblue2
+A430;t773;author;22;4.56;Germany;GER;dodgerblue2
+A430;t774;author;22;4.56;Germany;GER;dodgerblue2
+A430;t775;author;22;4.56;Germany;GER;dodgerblue2
+A32;t822;author;22;4.56;Italy;IT;slateblue3
+A304;t888;author;22;4.56;Netherlands;NT;darkblue
+A602;t951;author;22;4.56;Qatar;Q;lightsalmon4
+A359;t1097;author;22;4.56;United Kingdom;UK;deepskyblue4
+A359;t1098;author;22;4.56;United Kingdom;UK;deepskyblue4
+A447;t1116;author;22;4.56;United Kingdom;UK;deepskyblue4
+A650;t1149;author;22;4.56;United Kingdom;UK;deepskyblue4
+A650;t1150;author;22;4.56;United Kingdom;UK;deepskyblue4
+A229;t1242;author;22;4.56;United States;US;limegreen
+A49;t57;author;23;4.62;Canada;CA;olivedrab4
+A49;t58;author;23;4.62;Canada;CA;olivedrab4
+A49;t59;author;23;4.62;Canada;CA;olivedrab4
+A49;t60;author;23;4.62;Canada;CA;olivedrab4
+A452;t256;author;23;4.62;China;CHN;red
+A377;t807;author;23;4.62;India;IN;orchid4
+A6;t1163;author;23;4.62;United States;US;limegreen
+A229;t1243;author;23;4.62;United States;US;limegreen
+A475;t1299;author;23;4.62;United States;US;limegreen
+A679;t15;author;24;4.68;Australia;A;yellow4
+A679;t16;author;24;4.68;Australia;A;yellow4
+A679;t17;author;24;4.68;Australia;A;yellow4
+A679;t18;author;24;4.68;Australia;A;yellow4
+A679;t19;author;24;4.68;Australia;A;yellow4
+A679;t20;author;24;4.68;Australia;A;yellow4
+A679;t21;author;24;4.68;Australia;A;yellow4
+A679;t22;author;24;4.68;Australia;A;yellow4
+A679;t23;author;24;4.68;Australia;A;yellow4
+A350;t233;author;24;4.68;China;CHN;red
+A444;t897;author;24;4.68;Netherlands;NT;darkblue
+A461;t900;author;24;4.68;Netherlands;NT;darkblue
+A320;t1092;author;24;4.68;United Kingdom;UK;deepskyblue4
+A320;t1093;author;24;4.68;United Kingdom;UK;deepskyblue4
+A25;t1178;author;24;4.68;United States;US;limegreen
+A25;t1179;author;24;4.68;United States;US;limegreen
+A25;t1180;author;24;4.68;United States;US;limegreen
+A25;t1181;author;24;4.68;United States;US;limegreen
+A25;t1182;author;24;4.68;United States;US;limegreen
+A25;t1183;author;24;4.68;United States;US;limegreen
+A25;t1184;author;24;4.68;United States;US;limegreen
+A238;t40;author;25;4.74;Belgium;BE;royalblue3
+A556;t41;author;25;4.74;Belgium;BE;royalblue3
+A219;t77;author;25;4.74;Canada;CA;olivedrab4
+A219;t78;author;25;4.74;Canada;CA;olivedrab4
+A219;t79;author;25;4.74;Canada;CA;olivedrab4
+A219;t80;author;25;4.74;Canada;CA;olivedrab4
+A219;t81;author;25;4.74;Canada;CA;olivedrab4
+A500;t716;author;25;4.74;France;FRA;blue3
+A500;t717;author;25;4.74;France;FRA;blue3
+A500;t720;author;25;4.74;France;FRA;blue3
+A500;t731;author;25;4.74;France;FRA;blue3
+A601;t796;author;25;4.74;Germany;GER;dodgerblue2
+A254;t841;author;25;4.74;Italy;IT;slateblue3
+A663;t1158;author;25;4.74;United Kingdom;UK;deepskyblue4
+A174;t1215;author;25;4.74;United States;US;limegreen
+A420;t1289;author;25;4.74;United States;US;limegreen
+A44;t55;author;26;4.8;Canada;CA;olivedrab4
+A713;t334;author;26;4.8;China;CHN;red
+A636;t938;author;26;4.8;Norway;NO;cyan4
+A277;t1255;author;26;4.8;United States;US;limegreen
+A553;t1312;author;26;4.8;United States;US;limegreen
+A55;t825;author;27;4.85;Italy;IT;slateblue3
+A631;t854;author;27;4.85;Italy;IT;slateblue3
+A23;t859;author;27;4.85;Netherlands;NT;darkblue
+A23;t860;author;27;4.85;Netherlands;NT;darkblue
+A572;t908;author;27;4.85;Netherlands;NT;darkblue
+A572;t909;author;27;4.85;Netherlands;NT;darkblue
+A572;t910;author;27;4.85;Netherlands;NT;darkblue
+A572;t911;author;27;4.85;Netherlands;NT;darkblue
+A215;t1237;author;27;4.85;United States;US;limegreen
+A215;t1238;author;27;4.85;United States;US;limegreen
+A215;t1239;author;27;4.85;United States;US;limegreen
+A215;t1240;author;27;4.85;United States;US;limegreen
+A302;t1269;author;27;4.85;United States;US;limegreen
+A500;t712;author;28;4.91;France;FRA;blue3
+A500;t721;author;28;4.91;France;FRA;blue3
+A500;t724;author;28;4.91;France;FRA;blue3
+A500;t727;author;28;4.91;France;FRA;blue3
+A500;t728;author;28;4.91;France;FRA;blue3
+A626;t925;author;28;4.91;Netherlands;NT;darkblue
+A79;t969;author;28;4.91;Spain;SP;royalblue1
+A87;t1038;author;28;4.91;United Kingdom;UK;deepskyblue4
+A88;t1039;author;28;4.91;United Kingdom;UK;deepskyblue4
+A89;t1040;author;28;4.91;United Kingdom;UK;deepskyblue4
+A89;t1041;author;28;4.91;United Kingdom;UK;deepskyblue4
+A89;t1042;author;28;4.91;United Kingdom;UK;deepskyblue4
+A502;t1130;author;28;4.91;United Kingdom;UK;deepskyblue4
+A55;t61;author;29;4.96;Canada;CA;olivedrab4
+A55;t62;author;29;4.96;Canada;CA;olivedrab4
+A55;t63;author;29;4.96;Canada;CA;olivedrab4
+A55;t64;author;29;4.96;Canada;CA;olivedrab4
+A55;t65;author;29;4.96;Canada;CA;olivedrab4
+A500;t713;author;29;4.96;France;FRA;blue3
+A500;t714;author;29;4.96;France;FRA;blue3
+A500;t715;author;29;4.96;France;FRA;blue3
+A500;t718;author;29;4.96;France;FRA;blue3
+A500;t719;author;29;4.96;France;FRA;blue3
+A500;t722;author;29;4.96;France;FRA;blue3
+A500;t723;author;29;4.96;France;FRA;blue3
+A500;t725;author;29;4.96;France;FRA;blue3
+A500;t726;author;29;4.96;France;FRA;blue3
+A500;t729;author;29;4.96;France;FRA;blue3
+A500;t730;author;29;4.96;France;FRA;blue3
+A134;t867;author;29;4.96;Netherlands;NT;darkblue
+A140;t943;author;29;4.96;Portugal;PO;blue1
+A568;t964;author;29;4.96;South Korea;SK;lightcoral
+A568;t965;author;29;4.96;South Korea;SK;lightcoral
+A484;t993;author;29;4.96;Spain;SP;royalblue1
+A27;t1017;author;29;4.96;United Kingdom;UK;deepskyblue4
+A27;t1018;author;29;4.96;United Kingdom;UK;deepskyblue4
+A27;t1019;author;29;4.96;United Kingdom;UK;deepskyblue4
+A27;t1020;author;29;4.96;United Kingdom;UK;deepskyblue4
+A607;t145;author;30;5.01;Canada;CA;olivedrab4
+A26;t147;author;30;5.01;Chile;CHL;palegreen4
+A351;t234;author;30;5.01;China;CHN;red
+A354;t237;author;30;5.01;China;CHN;red
+A136;t872;author;30;5.01;Netherlands;NT;darkblue
+A136;t874;author;30;5.01;Netherlands;NT;darkblue
+A136;t875;author;30;5.01;Netherlands;NT;darkblue
+A136;t876;author;30;5.01;Netherlands;NT;darkblue
+A624;t923;author;30;5.01;Netherlands;NT;darkblue
+A495;t1301;author;30;5.01;United States;US;limegreen
+A162;t68;author;31;5.05;Canada;CA;olivedrab4
+A162;t69;author;31;5.05;Canada;CA;olivedrab4
+A162;t70;author;31;5.05;Canada;CA;olivedrab4
+A162;t71;author;31;5.05;Canada;CA;olivedrab4
+A366;t106;author;31;5.05;Canada;CA;olivedrab4
+A366;t107;author;31;5.05;Canada;CA;olivedrab4
+A366;t108;author;31;5.05;Canada;CA;olivedrab4
+A366;t110;author;31;5.05;Canada;CA;olivedrab4
+A372;t611;author;31;5.05;France;FRA;blue3
+A471;t1125;author;31;5.05;United Kingdom;UK;deepskyblue4
+A24;t1168;author;31;5.05;United States;US;limegreen
+A24;t1169;author;31;5.05;United States;US;limegreen
+A24;t1170;author;31;5.05;United States;US;limegreen
+A24;t1171;author;31;5.05;United States;US;limegreen
+A24;t1172;author;31;5.05;United States;US;limegreen
+A24;t1173;author;31;5.05;United States;US;limegreen
+A24;t1174;author;31;5.05;United States;US;limegreen
+A24;t1175;author;31;5.05;United States;US;limegreen
+A24;t1176;author;31;5.05;United States;US;limegreen
+A24;t1177;author;31;5.05;United States;US;limegreen
+A35;t1185;author;31;5.05;United States;US;limegreen
+A577;t1320;author;31;5.05;United States;US;limegreen
+A51;t466;author;32;5.1;France;FRA;blue3
+A51;t467;author;32;5.1;France;FRA;blue3
+A51;t468;author;32;5.1;France;FRA;blue3
+A51;t469;author;32;5.1;France;FRA;blue3
+A51;t470;author;32;5.1;France;FRA;blue3
+A77;t827;author;32;5.1;Italy;IT;slateblue3
+A138;t877;author;32;5.1;Netherlands;NT;darkblue
+A72;t1037;author;32;5.1;United Kingdom;UK;deepskyblue4
+A314;t1091;author;32;5.1;United Kingdom;UK;deepskyblue4
+A55;t1192;author;32;5.1;United States;US;limegreen
+A104;t1202;author;32;5.1;United States;US;limegreen
+A531;t790;author;33;5.14;Germany;GER;dodgerblue2
+A531;t791;author;33;5.14;Germany;GER;dodgerblue2
+A531;t792;author;33;5.14;Germany;GER;dodgerblue2
+A312;t962;author;33;5.14;South Korea;SK;lightcoral
+A115;t1048;author;33;5.14;United Kingdom;UK;deepskyblue4
+A593;t1144;author;33;5.14;United Kingdom;UK;deepskyblue4
+A15;t1167;author;33;5.14;United States;US;limegreen
+A246;t90;author;34;5.19;Canada;CA;olivedrab4
+A466;t849;author;34;5.19;Italy;IT;slateblue3
+A393;t1285;author;34;5.19;United States;US;limegreen
+A187;t833;author;35;5.23;Italy;IT;slateblue3
+A227;t934;author;35;5.23;Norway;NO;cyan4
+A312;t961;author;35;5.23;South Korea;SK;lightcoral
+A132;t1049;author;35;5.23;United Kingdom;UK;deepskyblue4
+A561;t1140;author;35;5.23;United Kingdom;UK;deepskyblue4
+A561;t1141;author;35;5.23;United Kingdom;UK;deepskyblue4
+A561;t1142;author;35;5.23;United Kingdom;UK;deepskyblue4
+A225;t84;author;36;5.27;Canada;CA;olivedrab4
+A234;t85;author;36;5.27;Canada;CA;olivedrab4
+A234;t86;author;36;5.27;Canada;CA;olivedrab4
+A234;t87;author;36;5.27;Canada;CA;olivedrab4
+A234;t88;author;36;5.27;Canada;CA;olivedrab4
+A33;t441;author;36;5.27;France;FRA;blue3
+A33;t442;author;36;5.27;France;FRA;blue3
+A33;t443;author;36;5.27;France;FRA;blue3
+A33;t444;author;36;5.27;France;FRA;blue3
+A33;t445;author;36;5.27;France;FRA;blue3
+A33;t446;author;36;5.27;France;FRA;blue3
+A33;t447;author;36;5.27;France;FRA;blue3
+A33;t448;author;36;5.27;France;FRA;blue3
+A33;t449;author;36;5.27;France;FRA;blue3
+A33;t450;author;36;5.27;France;FRA;blue3
+A33;t451;author;36;5.27;France;FRA;blue3
+A274;t561;author;36;5.27;France;FRA;blue3
+A274;t562;author;36;5.27;France;FRA;blue3
+A274;t563;author;36;5.27;France;FRA;blue3
+A274;t564;author;36;5.27;France;FRA;blue3
+A274;t565;author;36;5.27;France;FRA;blue3
+A274;t566;author;36;5.27;France;FRA;blue3
+A274;t567;author;36;5.27;France;FRA;blue3
+A274;t568;author;36;5.27;France;FRA;blue3
+A274;t569;author;36;5.27;France;FRA;blue3
+A274;t570;author;36;5.27;France;FRA;blue3
+A274;t571;author;36;5.27;France;FRA;blue3
+A274;t572;author;36;5.27;France;FRA;blue3
+A274;t573;author;36;5.27;France;FRA;blue3
+A274;t574;author;36;5.27;France;FRA;blue3
+A274;t575;author;36;5.27;France;FRA;blue3
+A274;t576;author;36;5.27;France;FRA;blue3
+A274;t577;author;36;5.27;France;FRA;blue3
+A274;t578;author;36;5.27;France;FRA;blue3
+A274;t579;author;36;5.27;France;FRA;blue3
+A274;t580;author;36;5.27;France;FRA;blue3
+A274;t581;author;36;5.27;France;FRA;blue3
+A274;t582;author;36;5.27;France;FRA;blue3
+A274;t583;author;36;5.27;France;FRA;blue3
+A274;t584;author;36;5.27;France;FRA;blue3
+A413;t619;author;36;5.27;France;FRA;blue3
+A413;t620;author;36;5.27;France;FRA;blue3
+A413;t621;author;36;5.27;France;FRA;blue3
+A413;t622;author;36;5.27;France;FRA;blue3
+A413;t623;author;36;5.27;France;FRA;blue3
+A413;t624;author;36;5.27;France;FRA;blue3
+A413;t625;author;36;5.27;France;FRA;blue3
+A413;t626;author;36;5.27;France;FRA;blue3
+A413;t627;author;36;5.27;France;FRA;blue3
+A413;t628;author;36;5.27;France;FRA;blue3
+A413;t629;author;36;5.27;France;FRA;blue3
+A413;t630;author;36;5.27;France;FRA;blue3
+A413;t631;author;36;5.27;France;FRA;blue3
+A413;t632;author;36;5.27;France;FRA;blue3
+A413;t633;author;36;5.27;France;FRA;blue3
+A413;t634;author;36;5.27;France;FRA;blue3
+A413;t635;author;36;5.27;France;FRA;blue3
+A413;t636;author;36;5.27;France;FRA;blue3
+A413;t637;author;36;5.27;France;FRA;blue3
+A413;t638;author;36;5.27;France;FRA;blue3
+A446;t643;author;36;5.27;France;FRA;blue3
+A446;t644;author;36;5.27;France;FRA;blue3
+A446;t645;author;36;5.27;France;FRA;blue3
+A446;t646;author;36;5.27;France;FRA;blue3
+A446;t647;author;36;5.27;France;FRA;blue3
+A446;t648;author;36;5.27;France;FRA;blue3
+A446;t649;author;36;5.27;France;FRA;blue3
+A446;t650;author;36;5.27;France;FRA;blue3
+A446;t651;author;36;5.27;France;FRA;blue3
+A446;t652;author;36;5.27;France;FRA;blue3
+A446;t653;author;36;5.27;France;FRA;blue3
+A446;t654;author;36;5.27;France;FRA;blue3
+A446;t655;author;36;5.27;France;FRA;blue3
+A446;t656;author;36;5.27;France;FRA;blue3
+A446;t657;author;36;5.27;France;FRA;blue3
+A446;t658;author;36;5.27;France;FRA;blue3
+A446;t659;author;36;5.27;France;FRA;blue3
+A446;t660;author;36;5.27;France;FRA;blue3
+A446;t661;author;36;5.27;France;FRA;blue3
+A446;t662;author;36;5.27;France;FRA;blue3
+A446;t663;author;36;5.27;France;FRA;blue3
+A446;t664;author;36;5.27;France;FRA;blue3
+A446;t665;author;36;5.27;France;FRA;blue3
+A446;t666;author;36;5.27;France;FRA;blue3
+A247;t1078;author;36;5.27;United Kingdom;UK;deepskyblue4
+A348;t1095;author;36;5.27;United Kingdom;UK;deepskyblue4
+A30;t755;author;37;5.31;Germany;GER;dodgerblue2
+A436;t894;author;37;5.31;Netherlands;NT;darkblue
+A436;t895;author;37;5.31;Netherlands;NT;darkblue
+A436;t896;author;37;5.31;Netherlands;NT;darkblue
+A477;t124;author;38;5.35;Canada;CA;olivedrab4
+A518;t787;author;38;5.35;Germany;GER;dodgerblue2
+A518;t788;author;38;5.35;Germany;GER;dodgerblue2
+A118;t973;author;38;5.35;Spain;SP;royalblue1
+A442;t1115;author;38;5.35;United Kingdom;UK;deepskyblue4
+A477;t125;author;39;5.39;Canada;CA;olivedrab4
+A726;t346;author;39;5.39;China;CHN;red
+A20;t385;author;39;5.39;France;FRA;blue3
+A20;t386;author;39;5.39;France;FRA;blue3
+A20;t387;author;39;5.39;France;FRA;blue3
+A20;t388;author;39;5.39;France;FRA;blue3
+A20;t389;author;39;5.39;France;FRA;blue3
+A20;t390;author;39;5.39;France;FRA;blue3
+A20;t391;author;39;5.39;France;FRA;blue3
+A20;t392;author;39;5.39;France;FRA;blue3
+A20;t393;author;39;5.39;France;FRA;blue3
+A20;t394;author;39;5.39;France;FRA;blue3
+A20;t395;author;39;5.39;France;FRA;blue3
+A20;t396;author;39;5.39;France;FRA;blue3
+A20;t397;author;39;5.39;France;FRA;blue3
+A20;t398;author;39;5.39;France;FRA;blue3
+A20;t399;author;39;5.39;France;FRA;blue3
+A20;t400;author;39;5.39;France;FRA;blue3
+A20;t401;author;39;5.39;France;FRA;blue3
+A20;t402;author;39;5.39;France;FRA;blue3
+A20;t403;author;39;5.39;France;FRA;blue3
+A20;t404;author;39;5.39;France;FRA;blue3
+A20;t405;author;39;5.39;France;FRA;blue3
+A20;t406;author;39;5.39;France;FRA;blue3
+A20;t407;author;39;5.39;France;FRA;blue3
+A20;t408;author;39;5.39;France;FRA;blue3
+A29;t417;author;39;5.39;France;FRA;blue3
+A29;t418;author;39;5.39;France;FRA;blue3
+A29;t419;author;39;5.39;France;FRA;blue3
+A29;t420;author;39;5.39;France;FRA;blue3
+A29;t421;author;39;5.39;France;FRA;blue3
+A29;t422;author;39;5.39;France;FRA;blue3
+A29;t423;author;39;5.39;France;FRA;blue3
+A29;t424;author;39;5.39;France;FRA;blue3
+A29;t425;author;39;5.39;France;FRA;blue3
+A29;t426;author;39;5.39;France;FRA;blue3
+A29;t427;author;39;5.39;France;FRA;blue3
+A29;t428;author;39;5.39;France;FRA;blue3
+A29;t429;author;39;5.39;France;FRA;blue3
+A29;t430;author;39;5.39;France;FRA;blue3
+A29;t431;author;39;5.39;France;FRA;blue3
+A29;t432;author;39;5.39;France;FRA;blue3
+A29;t433;author;39;5.39;France;FRA;blue3
+A29;t434;author;39;5.39;France;FRA;blue3
+A29;t435;author;39;5.39;France;FRA;blue3
+A29;t436;author;39;5.39;France;FRA;blue3
+A29;t437;author;39;5.39;France;FRA;blue3
+A29;t438;author;39;5.39;France;FRA;blue3
+A29;t439;author;39;5.39;France;FRA;blue3
+A29;t440;author;39;5.39;France;FRA;blue3
+A464;t668;author;39;5.39;France;FRA;blue3
+A464;t669;author;39;5.39;France;FRA;blue3
+A464;t670;author;39;5.39;France;FRA;blue3
+A464;t671;author;39;5.39;France;FRA;blue3
+A464;t672;author;39;5.39;France;FRA;blue3
+A464;t673;author;39;5.39;France;FRA;blue3
+A464;t674;author;39;5.39;France;FRA;blue3
+A464;t675;author;39;5.39;France;FRA;blue3
+A464;t676;author;39;5.39;France;FRA;blue3
+A464;t677;author;39;5.39;France;FRA;blue3
+A464;t678;author;39;5.39;France;FRA;blue3
+A464;t679;author;39;5.39;France;FRA;blue3
+A464;t680;author;39;5.39;France;FRA;blue3
+A464;t681;author;39;5.39;France;FRA;blue3
+A464;t682;author;39;5.39;France;FRA;blue3
+A464;t683;author;39;5.39;France;FRA;blue3
+A464;t684;author;39;5.39;France;FRA;blue3
+A464;t685;author;39;5.39;France;FRA;blue3
+A464;t686;author;39;5.39;France;FRA;blue3
+A464;t687;author;39;5.39;France;FRA;blue3
+A464;t688;author;39;5.39;France;FRA;blue3
+A464;t689;author;39;5.39;France;FRA;blue3
+A464;t690;author;39;5.39;France;FRA;blue3
+A464;t691;author;39;5.39;France;FRA;blue3
+A464;t692;author;39;5.39;France;FRA;blue3
+A464;t693;author;39;5.39;France;FRA;blue3
+A207;t840;author;39;5.39;Italy;IT;slateblue3
+A286;t1260;author;39;5.39;United States;US;limegreen
+A286;t1261;author;39;5.39;United States;US;limegreen
+A286;t1262;author;39;5.39;United States;US;limegreen
+A344;t1276;author;39;5.39;United States;US;limegreen
+A344;t1277;author;39;5.39;United States;US;limegreen
+A84;t970;author;40;5.42;Spain;SP;royalblue1
+A262;t1081;author;40;5.42;United Kingdom;UK;deepskyblue4
+A390;t1103;author;40;5.42;United Kingdom;UK;deepskyblue4
+A48;t456;author;41;5.46;France;FRA;blue3
+A80;t479;author;41;5.46;France;FRA;blue3
+A80;t480;author;41;5.46;France;FRA;blue3
+A80;t481;author;41;5.46;France;FRA;blue3
+A80;t482;author;41;5.46;France;FRA;blue3
+A80;t483;author;41;5.46;France;FRA;blue3
+A441;t820;author;41;5.46;Ireland;IR;cornflowerblue
+A390;t1104;author;41;5.46;United Kingdom;UK;deepskyblue4
+A43;t1187;author;41;5.46;United States;US;limegreen
+A315;t1271;author;41;5.46;United States;US;limegreen
+A659;t1338;author;41;5.46;United States;US;limegreen
+A324;t212;author;42;5.49;China;CHN;red
+A122;t492;author;42;5.49;France;FRA;blue3
+A122;t493;author;42;5.49;France;FRA;blue3
+A122;t494;author;42;5.49;France;FRA;blue3
+A122;t495;author;42;5.49;France;FRA;blue3
+A122;t496;author;42;5.49;France;FRA;blue3
+A122;t497;author;42;5.49;France;FRA;blue3
+A122;t498;author;42;5.49;France;FRA;blue3
+A122;t499;author;42;5.49;France;FRA;blue3
+A122;t500;author;42;5.49;France;FRA;blue3
+A122;t501;author;42;5.49;France;FRA;blue3
+A122;t502;author;42;5.49;France;FRA;blue3
+A122;t503;author;42;5.49;France;FRA;blue3
+A122;t504;author;42;5.49;France;FRA;blue3
+A122;t505;author;42;5.49;France;FRA;blue3
+A122;t506;author;42;5.49;France;FRA;blue3
+A122;t507;author;42;5.49;France;FRA;blue3
+A122;t508;author;42;5.49;France;FRA;blue3
+A122;t509;author;42;5.49;France;FRA;blue3
+A122;t510;author;42;5.49;France;FRA;blue3
+A288;t764;author;43;5.53;Germany;GER;dodgerblue2
+A391;t891;author;43;5.53;Netherlands;NT;darkblue
+A598;t912;author;43;5.53;Netherlands;NT;darkblue
+A55;t1005;author;43;5.53;Switzerland;SW;turquoise3
+A200;t1231;author;43;5.53;United States;US;limegreen
+A200;t1232;author;43;5.53;United States;US;limegreen
+A18;t52;author;45;5.59;Canada;CA;olivedrab4
+A18;t53;author;45;5.59;Canada;CA;olivedrab4
+A81;t828;author;45;5.59;Italy;IT;slateblue3
+A307;t101;author;46;5.62;Canada;CA;olivedrab4
+A105;t829;author;46;5.62;Italy;IT;slateblue3
+A181;t1227;author;46;5.62;United States;US;limegreen
+A406;t768;author;47;5.65;Germany;GER;dodgerblue2
+A613;t853;author;47;5.65;Italy;IT;slateblue3
+A125;t1208;author;47;5.65;United States;US;limegreen
+A289;t1264;author;47;5.65;United States;US;limegreen
+A263;t376;author;48;5.68;Denmark;DK;navyblue
+A263;t377;author;48;5.68;Denmark;DK;navyblue
+A273;t537;author;48;5.68;France;FRA;blue3
+A273;t538;author;48;5.68;France;FRA;blue3
+A273;t539;author;48;5.68;France;FRA;blue3
+A273;t540;author;48;5.68;France;FRA;blue3
+A273;t541;author;48;5.68;France;FRA;blue3
+A273;t542;author;48;5.68;France;FRA;blue3
+A273;t543;author;48;5.68;France;FRA;blue3
+A273;t544;author;48;5.68;France;FRA;blue3
+A273;t545;author;48;5.68;France;FRA;blue3
+A273;t546;author;48;5.68;France;FRA;blue3
+A273;t547;author;48;5.68;France;FRA;blue3
+A273;t548;author;48;5.68;France;FRA;blue3
+A273;t549;author;48;5.68;France;FRA;blue3
+A273;t550;author;48;5.68;France;FRA;blue3
+A273;t551;author;48;5.68;France;FRA;blue3
+A273;t552;author;48;5.68;France;FRA;blue3
+A273;t553;author;48;5.68;France;FRA;blue3
+A273;t554;author;48;5.68;France;FRA;blue3
+A273;t555;author;48;5.68;France;FRA;blue3
+A273;t556;author;48;5.68;France;FRA;blue3
+A273;t557;author;48;5.68;France;FRA;blue3
+A273;t558;author;48;5.68;France;FRA;blue3
+A273;t559;author;48;5.68;France;FRA;blue3
+A273;t560;author;48;5.68;France;FRA;blue3
+A536;t852;author;48;5.68;Italy;IT;slateblue3
+A213;t1235;author;48;5.68;United States;US;limegreen
+A426;t845;author;49;5.71;Italy;IT;slateblue3
+A614;t1327;author;49;5.71;United States;US;limegreen
+A418;t769;author;50;5.74;Germany;GER;dodgerblue2
+A418;t770;author;50;5.74;Germany;GER;dodgerblue2
+A37;t452;author;51;5.77;France;FRA;blue3
+A37;t453;author;51;5.77;France;FRA;blue3
+A37;t454;author;51;5.77;France;FRA;blue3
+A37;t455;author;51;5.77;France;FRA;blue3
+A622;t914;author;52;5.8;Netherlands;NT;darkblue
+A622;t915;author;52;5.8;Netherlands;NT;darkblue
+A622;t920;author;52;5.8;Netherlands;NT;darkblue
+A622;t921;author;52;5.8;Netherlands;NT;darkblue
+A497;t778;author;53;5.83;Germany;GER;dodgerblue2
+A497;t779;author;53;5.83;Germany;GER;dodgerblue2
+A534;t1135;author;54;5.85;United Kingdom;UK;deepskyblue4
+A209;t979;author;55;5.88;Spain;SP;royalblue1
+A209;t980;author;55;5.88;Spain;SP;royalblue1
+A411;t121;author;56;5.91;Canada;CA;olivedrab4
+A319;t1273;author;56;5.91;United States;US;limegreen
+A429;t1292;author;56;5.91;United States;US;limegreen
+A669;t296;author;57;5.93;China;CHN;red
+A669;t297;author;57;5.93;China;CHN;red
+A652;t1151;author;57;5.93;United Kingdom;UK;deepskyblue4
+A175;t1216;author;59;5.98;United States;US;limegreen
+A175;t1217;author;59;5.98;United States;US;limegreen
+A175;t1218;author;59;5.98;United States;US;limegreen
+A175;t1219;author;59;5.98;United States;US;limegreen
+A175;t1220;author;59;5.98;United States;US;limegreen
+A175;t1221;author;59;5.98;United States;US;limegreen
+A175;t1222;author;59;5.98;United States;US;limegreen
+A175;t1223;author;59;5.98;United States;US;limegreen
+A175;t1224;author;59;5.98;United States;US;limegreen
+A405;t1287;author;59;5.98;United States;US;limegreen
+A55;t1191;author;60;6.01;United States;US;limegreen
+A75;t1199;author;60;6.01;United States;US;limegreen
+A405;t1288;author;60;6.01;United States;US;limegreen
+A576;t1319;author;61;6.03;United States;US;limegreen
+A204;t839;author;62;6.05;Italy;IT;slateblue3
+A47;t1025;author;62;6.05;United Kingdom;UK;deepskyblue4
+A47;t1026;author;62;6.05;United Kingdom;UK;deepskyblue4
+A739;t803;author;64;6.1;Germany;GER;dodgerblue2
+A621;t747;author;66;6.14;France;FRA;blue3
+A383;t614;author;67;6.17;France;FRA;blue3
+A657;t1153;author;67;6.17;United Kingdom;UK;deepskyblue4
+A657;t1154;author;67;6.17;United Kingdom;UK;deepskyblue4
+A657;t1155;author;67;6.17;United Kingdom;UK;deepskyblue4
+A651;t1334;author;67;6.17;United States;US;limegreen
+A137;t1211;author;68;6.19;United States;US;limegreen
+A56;t862;author;69;6.21;Netherlands;NT;darkblue
+A56;t863;author;69;6.21;Netherlands;NT;darkblue
+A56;t864;author;69;6.21;Netherlands;NT;darkblue
+A214;t1236;author;70;6.23;United States;US;limegreen
+A224;t83;author;71;6.25;Canada;CA;olivedrab4
+A69;t1197;author;74;6.31;United States;US;limegreen
+A587;t1143;author;75;6.33;United Kingdom;UK;deepskyblue4
+A296;t1266;author;79;6.4;United States;US;limegreen
+A374;t1281;author;79;6.4;United States;US;limegreen
+A216;t1059;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1061;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1062;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1063;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1064;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1065;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1066;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1067;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1068;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1069;author;85;6.51;United Kingdom;UK;deepskyblue4
+A216;t1070;author;85;6.51;United Kingdom;UK;deepskyblue4
+A57;t865;author;97;6.7;Netherlands;NT;darkblue
+A563;t38;author;103;6.79;Austria;AUS;royalblue4
+A111;t1205;author;108;6.85;United States;US;limegreen
+RW68;t1516;review;1;0.5;paper; ;red
+RW68;t1530;review;1;0.5;paper; ;red
+RW68;t1616;review;1;0.5;paper; ;red
+RW68;t1618;review;1;0.5;paper; ;red
+RW68;t1625;review;1;0.5;paper; ;red
+RW68;t1694;review;1;0.5;paper; ;red
+RW138;t1738;review;1;0.5;paper; ;blue3
+RW138;t1770;review;1;0.5;paper; ;blue3
+RW138;t1810;review;1;0.5;paper; ;blue3
+RW138;t1819;review;1;0.5;paper; ;blue3
+RW138;t1832;review;1;0.5;paper; ;blue3
+RW138;t1890;review;1;0.5;paper; ;blue3
+RW138;t1914;review;1;0.5;paper; ;blue3
+RW138;t1939;review;1;0.5;paper; ;blue3
+RW138;t1972;review;1;0.5;paper; ;blue3
+RW138;t1996;review;1;0.5;paper; ;blue3
+RW138;t2022;review;1;0.5;paper; ;blue3
+RW138;t2065;review;1;0.5;paper; ;blue3
+RW138;t2085;review;1;0.5;paper; ;blue3
+RW138;t2094;review;1;0.5;paper; ;blue3
+RW138;t2101;review;1;0.5;paper; ;blue3
+RW139;t2305;review;1;0.5;paper; ;goldenrod2
+RW139;t2306;review;1;0.5;paper; ;goldenrod2
+RW187;t2317;review;1;0.5;paper; ;royalblue1
+RW187;t2325;review;1;0.5;paper; ;royalblue1
+RW187;t2337;review;1;0.5;paper; ;royalblue1
+RW187;t2347;review;1;0.5;paper; ;royalblue1
+RW69;t2511;review;1;0.5;paper; ;darkgreen
+RW180;t2513;review;1;0.5;paper; ;darkgreen
+RW77;t2535;review;1;0.5;paper; ;darkgreen
+RW69;t2552;review;1;0.5;paper; ;darkgreen
+RW180;t2559;review;1;0.5;paper; ;darkgreen
+RW180;t2568;review;1;0.5;paper; ;darkgreen
+RW50;t2582;review;1;0.5;paper; ;darkgreen
+RW180;t2590;review;1;0.5;paper; ;darkgreen
+RW50;t2632;review;1;0.5;paper; ;darkgreen
+RW180;t2656;review;1;0.5;paper; ;darkgreen
+RW50;t2689;review;1;0.5;paper; ;darkgreen
+RW69;t2690;review;1;0.5;paper; ;darkgreen
+RW77;t2692;review;1;0.5;paper; ;darkgreen
+RW68;t2696;review;1;0.5;paper; ;darkgreen
+RW170;t1388;review;2;0.5;paper; ;royalblue4
+RW246;t1389;review;2;0.5;paper; ;royalblue3
+RW246;t1390;review;2;0.5;paper; ;royalblue3
+RW131;t1451;review;2;0.5;paper; ;olivedrab4
+RW131;t1471;review;2;0.5;paper; ;olivedrab4
+RW131;t1475;review;2;0.5;paper; ;olivedrab4
+RW85;t2159;review;2;0.5;paper; ;orchid4
+RW85;t2162;review;2;0.5;paper; ;orchid4
+RW85;t2163;review;2;0.5;paper; ;orchid4
+RW114;t2174;review;2;0.5;paper; ;slateblue3
+RW114;t2177;review;2;0.5;paper; ;slateblue3
+RW170;t2178;review;2;0.5;paper; ;slateblue3
+RW114;t2182;review;2;0.5;paper; ;slateblue3
+RW170;t2188;review;2;0.5;paper; ;slateblue3
+RW114;t2189;review;2;0.5;paper; ;slateblue3
+RW114;t2190;review;2;0.5;paper; ;slateblue3
+RW114;t2191;review;2;0.5;paper; ;slateblue3
+RW114;t2199;review;2;0.5;paper; ;slateblue3
+RW170;t2203;review;2;0.5;paper; ;slateblue3
+RW114;t2307;review;2;0.5;paper; ;lightblue3
+RW90;t2354;review;2;0.5;paper; ;turquoise3
+RW90;t2355;review;2;0.5;paper; ;turquoise3
+RW132;t2364;review;2;0.5;paper; ;deepskyblue4
+RW246;t2439;review;2;0.5;paper; ;deepskyblue4
+RW132;t2512;review;2;0.5;paper; ;darkgreen
+RW270;t2536;review;2;0.5;paper; ;darkgreen
+RW241;t2537;review;2;0.5;paper; ;darkgreen
+RW270;t2539;review;2;0.5;paper; ;darkgreen
+RW132;t2540;review;2;0.5;paper; ;darkgreen
+RW132;t2541;review;2;0.5;paper; ;darkgreen
+RW132;t2546;review;2;0.5;paper; ;darkgreen
+RW241;t2553;review;2;0.5;paper; ;darkgreen
+RW105;t2555;review;2;0.5;paper; ;darkgreen
+RW132;t2557;review;2;0.5;paper; ;darkgreen
+RW130;t2566;review;2;0.5;paper; ;darkgreen
+RW260;t2569;review;2;0.5;paper; ;darkgreen
+RW270;t2571;review;2;0.5;paper; ;darkgreen
+RW132;t2575;review;2;0.5;paper; ;darkgreen
+RW270;t2579;review;2;0.5;paper; ;darkgreen
+RW90;t2585;review;2;0.5;paper; ;darkgreen
+RW132;t2603;review;2;0.5;paper; ;darkgreen
+RW216;t2605;review;2;0.5;paper; ;darkgreen
+RW132;t2606;review;2;0.5;paper; ;darkgreen
+RW105;t2609;review;2;0.5;paper; ;darkgreen
+RW216;t2610;review;2;0.5;paper; ;darkgreen
+RW105;t2633;review;2;0.5;paper; ;darkgreen
+RW132;t2635;review;2;0.5;paper; ;darkgreen
+RW132;t2641;review;2;0.5;paper; ;darkgreen
+RW132;t2645;review;2;0.5;paper; ;darkgreen
+RW130;t2647;review;2;0.5;paper; ;darkgreen
+RW216;t2652;review;2;0.5;paper; ;darkgreen
+RW130;t2655;review;2;0.5;paper; ;darkgreen
+RW132;t2658;review;2;0.5;paper; ;darkgreen
+RW90;t2665;review;2;0.5;paper; ;darkgreen
+RW132;t2682;review;2;0.5;paper; ;darkgreen
+RW260;t2695;review;2;0.5;paper; ;darkgreen
+RW17;t1350;review;3;0.5;paper; ;yellow4
+RW17;t1355;review;3;0.5;paper; ;yellow4
+RW17;t1364;review;3;0.5;paper; ;yellow4
+RW17;t1373;review;3;0.5;paper; ;yellow4
+RW17;t1382;review;3;0.5;paper; ;yellow4
+RW195;t1392;review;3;0.5;paper; ;violetred4
+RW195;t1396;review;3;0.5;paper; ;violetred4
+RW165;t1524;review;3;0.5;paper; ;red
+RW17;t1534;review;3;0.5;paper; ;red
+RW17;t1587;review;3;0.5;paper; ;red
+RW165;t1620;review;3;0.5;paper; ;red
+RW17;t1660;review;3;0.5;paper; ;red
+RW17;t1670;review;3;0.5;paper; ;red
+RW17;t1672;review;3;0.5;paper; ;red
+RW165;t1705;review;3;0.5;paper; ;red
+RW165;t1709;review;3;0.5;paper; ;red
+RW129;t1715;review;3;0.5;paper; ;chartreuse4
+RW129;t1716;review;3;0.5;paper; ;chartreuse4
+RW205;t1743;review;3;0.5;paper; ;blue3
+RW213;t1750;review;3;0.5;paper; ;blue3
+RW249;t1754;review;3;0.5;paper; ;blue3
+RW250;t1755;review;3;0.5;paper; ;blue3
+RW205;t1758;review;3;0.5;paper; ;blue3
+RW213;t1765;review;3;0.5;paper; ;blue3
+RW205;t1775;review;3;0.5;paper; ;blue3
+RW213;t1782;review;3;0.5;paper; ;blue3
+RW249;t1786;review;3;0.5;paper; ;blue3
+RW250;t1787;review;3;0.5;paper; ;blue3
+RW205;t1790;review;3;0.5;paper; ;blue3
+RW213;t1797;review;3;0.5;paper; ;blue3
+RW249;t1801;review;3;0.5;paper; ;blue3
+RW250;t1802;review;3;0.5;paper; ;blue3
+RW249;t1824;review;3;0.5;paper; ;blue3
+RW250;t1825;review;3;0.5;paper; ;blue3
+RW205;t1833;review;3;0.5;paper; ;blue3
+RW213;t1840;review;3;0.5;paper; ;blue3
+RW205;t1845;review;3;0.5;paper; ;blue3
+RW213;t1852;review;3;0.5;paper; ;blue3
+RW249;t1856;review;3;0.5;paper; ;blue3
+RW250;t1857;review;3;0.5;paper; ;blue3
+RW205;t1862;review;3;0.5;paper; ;blue3
+RW213;t1869;review;3;0.5;paper; ;blue3
+RW205;t1871;review;3;0.5;paper; ;blue3
+RW213;t1878;review;3;0.5;paper; ;blue3
+RW205;t1895;review;3;0.5;paper; ;blue3
+RW213;t1902;review;3;0.5;paper; ;blue3
+RW249;t1906;review;3;0.5;paper; ;blue3
+RW250;t1907;review;3;0.5;paper; ;blue3
+RW205;t1919;review;3;0.5;paper; ;blue3
+RW213;t1926;review;3;0.5;paper; ;blue3
+RW249;t1930;review;3;0.5;paper; ;blue3
+RW250;t1931;review;3;0.5;paper; ;blue3
+RW205;t1944;review;3;0.5;paper; ;blue3
+RW213;t1951;review;3;0.5;paper; ;blue3
+RW249;t1955;review;3;0.5;paper; ;blue3
+RW250;t1956;review;3;0.5;paper; ;blue3
+RW136;t1962;review;3;0.5;paper; ;blue3
+RW205;t1977;review;3;0.5;paper; ;blue3
+RW213;t1984;review;3;0.5;paper; ;blue3
+RW205;t2001;review;3;0.5;paper; ;blue3
+RW213;t2008;review;3;0.5;paper; ;blue3
+RW249;t2012;review;3;0.5;paper; ;blue3
+RW250;t2013;review;3;0.5;paper; ;blue3
+RW205;t2027;review;3;0.5;paper; ;blue3
+RW213;t2034;review;3;0.5;paper; ;blue3
+RW249;t2038;review;3;0.5;paper; ;blue3
+RW250;t2039;review;3;0.5;paper; ;blue3
+RW249;t2048;review;3;0.5;paper; ;blue3
+RW250;t2049;review;3;0.5;paper; ;blue3
+RW249;t2053;review;3;0.5;paper; ;blue3
+RW250;t2054;review;3;0.5;paper; ;blue3
+RW249;t2057;review;3;0.5;paper; ;blue3
+RW250;t2058;review;3;0.5;paper; ;blue3
+RW205;t2070;review;3;0.5;paper; ;blue3
+RW213;t2077;review;3;0.5;paper; ;blue3
+RW60;t2103;review;3;0.5;paper; ;dodgerblue2
+RW60;t2110;review;3;0.5;paper; ;dodgerblue2
+RW60;t2116;review;3;0.5;paper; ;dodgerblue2
+RW27;t2157;review;3;0.5;paper; ;orchid4
+RW27;t2161;review;3;0.5;paper; ;orchid4
+RW301;t2170;review;3;0.5;paper; ;steelblue2
+RW253;t2211;review;3;0.5;paper; ;darkblue
+RW238;t2216;review;3;0.5;paper; ;darkblue
+RW253;t2238;review;3;0.5;paper; ;darkblue
+RW238;t2240;review;3;0.5;paper; ;darkblue
+RW238;t2241;review;3;0.5;paper; ;darkblue
+RW253;t2245;review;3;0.5;paper; ;darkblue
+RW253;t2250;review;3;0.5;paper; ;darkblue
+RW253;t2258;review;3;0.5;paper; ;darkblue
+RW238;t2269;review;3;0.5;paper; ;darkblue
+RW238;t2276;review;3;0.5;paper; ;darkblue
+RW15;t2288;review;3;0.5;paper; ;blue1
+RW15;t2289;review;3;0.5;paper; ;blue1
+RW5;t2290;review;3;0.5;paper; ;blue1
+RW5;t2291;review;3;0.5;paper; ;blue1
+RW5;t2293;review;3;0.5;paper; ;blue1
+RW5;t2294;review;3;0.5;paper; ;blue1
+RW15;t2296;review;3;0.5;paper; ;blue1
+RW15;t2297;review;3;0.5;paper; ;blue1
+RW15;t2298;review;3;0.5;paper; ;blue1
+RW15;t2299;review;3;0.5;paper; ;blue1
+RW301;t2301;review;3;0.5;paper; ;orangered3
+RW301;t2302;review;3;0.5;paper; ;orangered3
+RW301;t2303;review;3;0.5;paper; ;orangered3
+RW301;t2304;review;3;0.5;paper; ;orangered3
+RW41;t2310;review;3;0.5;paper; ;lightcoral
+RW41;t2313;review;3;0.5;paper; ;lightcoral
+RW182;t2366;review;3;0.5;paper; ;deepskyblue4
+RW286;t2389;review;3;0.5;paper; ;deepskyblue4
+RW182;t2412;review;3;0.5;paper; ;deepskyblue4
+RW286;t2415;review;3;0.5;paper; ;deepskyblue4
+RW286;t2462;review;3;0.5;paper; ;deepskyblue4
+RW286;t2466;review;3;0.5;paper; ;deepskyblue4
+RW182;t2468;review;3;0.5;paper; ;deepskyblue4
+RW182;t2492;review;3;0.5;paper; ;deepskyblue4
+RW283;t2545;review;3;0.5;paper; ;darkgreen
+RW136;t2547;review;3;0.5;paper; ;darkgreen
+RW136;t2567;review;3;0.5;paper; ;darkgreen
+RW283;t2572;review;3;0.5;paper; ;darkgreen
+RW303;t2573;review;3;0.5;paper; ;darkgreen
+RW283;t2576;review;3;0.5;paper; ;darkgreen
+RW136;t2578;review;3;0.5;paper; ;darkgreen
+RW249;t2586;review;3;0.5;paper; ;darkgreen
+RW250;t2587;review;3;0.5;paper; ;darkgreen
+RW303;t2608;review;3;0.5;paper; ;darkgreen
+RW303;t2616;review;3;0.5;paper; ;darkgreen
+RW136;t2640;review;3;0.5;paper; ;darkgreen
+RW303;t2644;review;3;0.5;paper; ;darkgreen
+RW253;t2668;review;3;0.5;paper; ;darkgreen
+RW283;t2679;review;3;0.5;paper; ;darkgreen
+RW303;t2684;review;3;0.5;paper; ;darkgreen
+RW37;t1387;review;4;0.5;paper; ;royalblue4
+RW34;t1411;review;4;0.5;paper; ;olivedrab4
+RW157;t1739;review;4;0.5;paper; ;blue3
+RW162;t1742;review;4;0.5;paper; ;blue3
+RW208;t1746;review;4;0.5;paper; ;blue3
+RW211;t1749;review;4;0.5;paper; ;blue3
+RW252;t1756;review;4;0.5;paper; ;blue3
+RW208;t1761;review;4;0.5;paper; ;blue3
+RW211;t1764;review;4;0.5;paper; ;blue3
+RW157;t1771;review;4;0.5;paper; ;blue3
+RW162;t1774;review;4;0.5;paper; ;blue3
+RW208;t1778;review;4;0.5;paper; ;blue3
+RW211;t1781;review;4;0.5;paper; ;blue3
+RW252;t1788;review;4;0.5;paper; ;blue3
+RW208;t1793;review;4;0.5;paper; ;blue3
+RW211;t1796;review;4;0.5;paper; ;blue3
+RW252;t1803;review;4;0.5;paper; ;blue3
+RW157;t1811;review;4;0.5;paper; ;blue3
+RW162;t1814;review;4;0.5;paper; ;blue3
+RW157;t1820;review;4;0.5;paper; ;blue3
+RW162;t1823;review;4;0.5;paper; ;blue3
+RW252;t1826;review;4;0.5;paper; ;blue3
+RW208;t1836;review;4;0.5;paper; ;blue3
+RW211;t1839;review;4;0.5;paper; ;blue3
+RW157;t1841;review;4;0.5;paper; ;blue3
+RW162;t1844;review;4;0.5;paper; ;blue3
+RW208;t1848;review;4;0.5;paper; ;blue3
+RW211;t1851;review;4;0.5;paper; ;blue3
+RW252;t1858;review;4;0.5;paper; ;blue3
+RW208;t1865;review;4;0.5;paper; ;blue3
+RW211;t1868;review;4;0.5;paper; ;blue3
+RW208;t1874;review;4;0.5;paper; ;blue3
+RW211;t1877;review;4;0.5;paper; ;blue3
+RW157;t1882;review;4;0.5;paper; ;blue3
+RW162;t1885;review;4;0.5;paper; ;blue3
+RW157;t1891;review;4;0.5;paper; ;blue3
+RW162;t1894;review;4;0.5;paper; ;blue3
+RW208;t1898;review;4;0.5;paper; ;blue3
+RW211;t1901;review;4;0.5;paper; ;blue3
+RW252;t1908;review;4;0.5;paper; ;blue3
+RW157;t1915;review;4;0.5;paper; ;blue3
+RW162;t1918;review;4;0.5;paper; ;blue3
+RW208;t1922;review;4;0.5;paper; ;blue3
+RW211;t1925;review;4;0.5;paper; ;blue3
+RW252;t1932;review;4;0.5;paper; ;blue3
+RW157;t1940;review;4;0.5;paper; ;blue3
+RW162;t1943;review;4;0.5;paper; ;blue3
+RW208;t1947;review;4;0.5;paper; ;blue3
+RW211;t1950;review;4;0.5;paper; ;blue3
+RW252;t1957;review;4;0.5;paper; ;blue3
+RW37;t1959;review;4;0.5;paper; ;blue3
+RW37;t1963;review;4;0.5;paper; ;blue3
+RW157;t1973;review;4;0.5;paper; ;blue3
+RW162;t1976;review;4;0.5;paper; ;blue3
+RW208;t1980;review;4;0.5;paper; ;blue3
+RW211;t1983;review;4;0.5;paper; ;blue3
+RW157;t1997;review;4;0.5;paper; ;blue3
+RW162;t2000;review;4;0.5;paper; ;blue3
+RW208;t2004;review;4;0.5;paper; ;blue3
+RW211;t2007;review;4;0.5;paper; ;blue3
+RW252;t2014;review;4;0.5;paper; ;blue3
+RW157;t2023;review;4;0.5;paper; ;blue3
+RW162;t2026;review;4;0.5;paper; ;blue3
+RW208;t2030;review;4;0.5;paper; ;blue3
+RW211;t2033;review;4;0.5;paper; ;blue3
+RW252;t2040;review;4;0.5;paper; ;blue3
+RW157;t2044;review;4;0.5;paper; ;blue3
+RW162;t2047;review;4;0.5;paper; ;blue3
+RW252;t2050;review;4;0.5;paper; ;blue3
+RW252;t2055;review;4;0.5;paper; ;blue3
+RW252;t2059;review;4;0.5;paper; ;blue3
+RW157;t2066;review;4;0.5;paper; ;blue3
+RW162;t2069;review;4;0.5;paper; ;blue3
+RW208;t2073;review;4;0.5;paper; ;blue3
+RW211;t2076;review;4;0.5;paper; ;blue3
+RW124;t2102;review;4;0.5;paper; ;dodgerblue2
+RW124;t2104;review;4;0.5;paper; ;dodgerblue2
+RW124;t2107;review;4;0.5;paper; ;dodgerblue2
+RW202;t2114;review;4;0.5;paper; ;dodgerblue2
+RW124;t2119;review;4;0.5;paper; ;dodgerblue2
+RW124;t2127;review;4;0.5;paper; ;dodgerblue2
+RW124;t2129;review;4;0.5;paper; ;dodgerblue2
+RW124;t2130;review;4;0.5;paper; ;dodgerblue2
+RW202;t2144;review;4;0.5;paper; ;dodgerblue2
+RW124;t2145;review;4;0.5;paper; ;dodgerblue2
+RW202;t2147;review;4;0.5;paper; ;dodgerblue2
+RW202;t2150;review;4;0.5;paper; ;dodgerblue2
+RW63;t2171;review;4;0.5;paper; ;slateblue3
+RW63;t2172;review;4;0.5;paper; ;slateblue3
+RW37;t2173;review;4;0.5;paper; ;slateblue3
+RW63;t2179;review;4;0.5;paper; ;slateblue3
+RW63;t2180;review;4;0.5;paper; ;slateblue3
+RW63;t2185;review;4;0.5;paper; ;slateblue3
+RW63;t2193;review;4;0.5;paper; ;slateblue3
+RW63;t2196;review;4;0.5;paper; ;slateblue3
+RW63;t2197;review;4;0.5;paper; ;slateblue3
+RW63;t2198;review;4;0.5;paper; ;slateblue3
+RW63;t2202;review;4;0.5;paper; ;slateblue3
+RW151;t2222;review;4;0.5;paper; ;darkblue
+RW179;t2224;review;4;0.5;paper; ;darkblue
+RW151;t2230;review;4;0.5;paper; ;darkblue
+RW179;t2232;review;4;0.5;paper; ;darkblue
+RW179;t2235;review;4;0.5;paper; ;darkblue
+RW151;t2253;review;4;0.5;paper; ;darkblue
+RW179;t2255;review;4;0.5;paper; ;darkblue
+RW151;t2266;review;4;0.5;paper; ;darkblue
+RW179;t2268;review;4;0.5;paper; ;darkblue
+RW32;t2309;review;4;0.5;paper; ;lightcoral
+RW32;t2312;review;4;0.5;paper; ;lightcoral
+RW32;t2315;review;4;0.5;paper; ;lightcoral
+RW32;t2316;review;4;0.5;paper; ;lightcoral
+RW56;t2332;review;4;0.5;paper; ;royalblue1
+RW56;t2338;review;4;0.5;paper; ;royalblue1
+RW56;t2340;review;4;0.5;paper; ;royalblue1
+RW56;t2344;review;4;0.5;paper; ;royalblue1
+RW31;t2382;review;4;0.5;paper; ;deepskyblue4
+RW287;t2390;review;4;0.5;paper; ;deepskyblue4
+RW31;t2394;review;4;0.5;paper; ;deepskyblue4
+RW31;t2410;review;4;0.5;paper; ;deepskyblue4
+RW287;t2416;review;4;0.5;paper; ;deepskyblue4
+RW31;t2435;review;4;0.5;paper; ;deepskyblue4
+RW37;t2444;review;4;0.5;paper; ;deepskyblue4
+RW287;t2463;review;4;0.5;paper; ;deepskyblue4
+RW287;t2467;review;4;0.5;paper; ;deepskyblue4
+RW31;t2509;review;4;0.5;paper; ;deepskyblue4
+RW204;t2525;review;4;0.5;paper; ;darkgreen
+RW37;t2534;review;4;0.5;paper; ;darkgreen
+RW204;t2543;review;4;0.5;paper; ;darkgreen
+RW37;t2548;review;4;0.5;paper; ;darkgreen
+RW37;t2551;review;4;0.5;paper; ;darkgreen
+RW261;t2581;review;4;0.5;paper; ;darkgreen
+RW252;t2588;review;4;0.5;paper; ;darkgreen
+RW37;t2643;review;4;0.5;paper; ;darkgreen
+RW37;t2648;review;4;0.5;paper; ;darkgreen
+RW37;t2654;review;4;0.5;paper; ;darkgreen
+RW261;t2663;review;4;0.5;paper; ;darkgreen
+RW261;t2672;review;4;0.5;paper; ;darkgreen
+RW34;t2673;review;4;0.5;paper; ;darkgreen
+RW34;t2678;review;4;0.5;paper; ;darkgreen
+RW37;t2683;review;4;0.5;paper; ;darkgreen
+RW261;t2685;review;4;0.5;paper; ;darkgreen
+RW37;t2687;review;4;0.5;paper; ;darkgreen
+RW34;t2691;review;4;0.5;paper; ;darkgreen
+RW75;t1351;review;5;2.5;paper; ;yellow4
+RW75;t1367;review;5;2.5;paper; ;yellow4
+RW75;t1376;review;5;2.5;paper; ;yellow4
+RW169;t1405;review;5;2.5;paper; ;olivedrab4
+RW12;t1406;review;5;2.5;paper; ;olivedrab4
+RW12;t1410;review;5;2.5;paper; ;olivedrab4
+RW12;t1417;review;5;2.5;paper; ;olivedrab4
+RW12;t1421;review;5;2.5;paper; ;olivedrab4
+RW12;t1426;review;5;2.5;paper; ;olivedrab4
+RW12;t1434;review;5;2.5;paper; ;olivedrab4
+RW12;t1441;review;5;2.5;paper; ;olivedrab4
+RW12;t1445;review;5;2.5;paper; ;olivedrab4
+RW199;t1452;review;5;2.5;paper; ;olivedrab4
+RW169;t1453;review;5;2.5;paper; ;olivedrab4
+RW88;t1454;review;5;2.5;paper; ;olivedrab4
+RW12;t1455;review;5;2.5;paper; ;olivedrab4
+RW12;t1462;review;5;2.5;paper; ;olivedrab4
+RW12;t1466;review;5;2.5;paper; ;olivedrab4
+RW199;t1472;review;5;2.5;paper; ;olivedrab4
+RW12;t1473;review;5;2.5;paper; ;olivedrab4
+RW199;t1476;review;5;2.5;paper; ;olivedrab4
+RW12;t1477;review;5;2.5;paper; ;olivedrab4
+RW12;t1482;review;5;2.5;paper; ;olivedrab4
+RW12;t1489;review;5;2.5;paper; ;olivedrab4
+RW215;t1502;review;5;2.5;paper; ;red
+RW26;t1507;review;5;2.5;paper; ;red
+RW75;t1518;review;5;2.5;paper; ;red
+RW88;t1519;review;5;2.5;paper; ;red
+RW304;t1527;review;5;2.5;paper; ;red
+RW215;t1533;review;5;2.5;paper; ;red
+RW75;t1537;review;5;2.5;paper; ;red
+RW186;t1540;review;5;2.5;paper; ;red
+RW88;t1544;review;5;2.5;paper; ;red
+RW141;t1547;review;5;2.5;paper; ;red
+RW88;t1560;review;5;2.5;paper; ;red
+RW215;t1561;review;5;2.5;paper; ;red
+RW88;t1562;review;5;2.5;paper; ;red
+RW141;t1563;review;5;2.5;paper; ;red
+RW215;t1567;review;5;2.5;paper; ;red
+RW26;t1572;review;5;2.5;paper; ;red
+RW215;t1578;review;5;2.5;paper; ;red
+RW186;t1584;review;5;2.5;paper; ;red
+RW141;t1586;review;5;2.5;paper; ;red
+RW75;t1590;review;5;2.5;paper; ;red
+RW186;t1596;review;5;2.5;paper; ;red
+RW141;t1613;review;5;2.5;paper; ;red
+RW88;t1624;review;5;2.5;paper; ;red
+RW64;t1627;review;5;2.5;paper; ;red
+RW26;t1630;review;5;2.5;paper; ;red
+RW88;t1647;review;5;2.5;paper; ;red
+RW75;t1677;review;5;2.5;paper; ;red
+RW141;t1686;review;5;2.5;paper; ;red
+RW304;t1708;review;5;2.5;paper; ;red
+RW304;t1712;review;5;2.5;paper; ;red
+RW189;t1723;review;5;2.5;paper; ;navyblue
+RW189;t1726;review;5;2.5;paper; ;navyblue
+RW189;t1729;review;5;2.5;paper; ;navyblue
+RW189;t1731;review;5;2.5;paper; ;navyblue
+RW71;t1734;review;5;2.5;paper; ;blue3
+RW137;t1737;review;5;2.5;paper; ;blue3
+RW206;t1744;review;5;2.5;paper; ;blue3
+RW207;t1745;review;5;2.5;paper; ;blue3
+RW209;t1747;review;5;2.5;paper; ;blue3
+RW210;t1748;review;5;2.5;paper; ;blue3
+RW232;t1751;review;5;2.5;paper; ;blue3
+RW233;t1752;review;5;2.5;paper; ;blue3
+RW235;t1753;review;5;2.5;paper; ;blue3
+RW206;t1759;review;5;2.5;paper; ;blue3
+RW207;t1760;review;5;2.5;paper; ;blue3
+RW209;t1762;review;5;2.5;paper; ;blue3
+RW210;t1763;review;5;2.5;paper; ;blue3
+RW71;t1766;review;5;2.5;paper; ;blue3
+RW137;t1769;review;5;2.5;paper; ;blue3
+RW206;t1776;review;5;2.5;paper; ;blue3
+RW207;t1777;review;5;2.5;paper; ;blue3
+RW209;t1779;review;5;2.5;paper; ;blue3
+RW210;t1780;review;5;2.5;paper; ;blue3
+RW232;t1783;review;5;2.5;paper; ;blue3
+RW233;t1784;review;5;2.5;paper; ;blue3
+RW235;t1785;review;5;2.5;paper; ;blue3
+RW206;t1791;review;5;2.5;paper; ;blue3
+RW207;t1792;review;5;2.5;paper; ;blue3
+RW209;t1794;review;5;2.5;paper; ;blue3
+RW210;t1795;review;5;2.5;paper; ;blue3
+RW232;t1798;review;5;2.5;paper; ;blue3
+RW233;t1799;review;5;2.5;paper; ;blue3
+RW235;t1800;review;5;2.5;paper; ;blue3
+RW71;t1806;review;5;2.5;paper; ;blue3
+RW137;t1809;review;5;2.5;paper; ;blue3
+RW71;t1815;review;5;2.5;paper; ;blue3
+RW137;t1818;review;5;2.5;paper; ;blue3
+RW71;t1828;review;5;2.5;paper; ;blue3
+RW137;t1831;review;5;2.5;paper; ;blue3
+RW206;t1834;review;5;2.5;paper; ;blue3
+RW207;t1835;review;5;2.5;paper; ;blue3
+RW209;t1837;review;5;2.5;paper; ;blue3
+RW210;t1838;review;5;2.5;paper; ;blue3
+RW206;t1846;review;5;2.5;paper; ;blue3
+RW207;t1847;review;5;2.5;paper; ;blue3
+RW209;t1849;review;5;2.5;paper; ;blue3
+RW210;t1850;review;5;2.5;paper; ;blue3
+RW232;t1853;review;5;2.5;paper; ;blue3
+RW233;t1854;review;5;2.5;paper; ;blue3
+RW235;t1855;review;5;2.5;paper; ;blue3
+RW206;t1863;review;5;2.5;paper; ;blue3
+RW207;t1864;review;5;2.5;paper; ;blue3
+RW209;t1866;review;5;2.5;paper; ;blue3
+RW210;t1867;review;5;2.5;paper; ;blue3
+RW206;t1872;review;5;2.5;paper; ;blue3
+RW207;t1873;review;5;2.5;paper; ;blue3
+RW209;t1875;review;5;2.5;paper; ;blue3
+RW210;t1876;review;5;2.5;paper; ;blue3
+RW232;t1879;review;5;2.5;paper; ;blue3
+RW233;t1880;review;5;2.5;paper; ;blue3
+RW235;t1881;review;5;2.5;paper; ;blue3
+RW71;t1886;review;5;2.5;paper; ;blue3
+RW137;t1889;review;5;2.5;paper; ;blue3
+RW206;t1896;review;5;2.5;paper; ;blue3
+RW207;t1897;review;5;2.5;paper; ;blue3
+RW209;t1899;review;5;2.5;paper; ;blue3
+RW210;t1900;review;5;2.5;paper; ;blue3
+RW232;t1903;review;5;2.5;paper; ;blue3
+RW233;t1904;review;5;2.5;paper; ;blue3
+RW235;t1905;review;5;2.5;paper; ;blue3
+RW71;t1910;review;5;2.5;paper; ;blue3
+RW137;t1913;review;5;2.5;paper; ;blue3
+RW206;t1920;review;5;2.5;paper; ;blue3
+RW207;t1921;review;5;2.5;paper; ;blue3
+RW209;t1923;review;5;2.5;paper; ;blue3
+RW210;t1924;review;5;2.5;paper; ;blue3
+RW232;t1927;review;5;2.5;paper; ;blue3
+RW233;t1928;review;5;2.5;paper; ;blue3
+RW235;t1929;review;5;2.5;paper; ;blue3
+RW71;t1935;review;5;2.5;paper; ;blue3
+RW137;t1938;review;5;2.5;paper; ;blue3
+RW206;t1945;review;5;2.5;paper; ;blue3
+RW207;t1946;review;5;2.5;paper; ;blue3
+RW209;t1948;review;5;2.5;paper; ;blue3
+RW210;t1949;review;5;2.5;paper; ;blue3
+RW232;t1952;review;5;2.5;paper; ;blue3
+RW233;t1953;review;5;2.5;paper; ;blue3
+RW235;t1954;review;5;2.5;paper; ;blue3
+RW232;t1965;review;5;2.5;paper; ;blue3
+RW233;t1966;review;5;2.5;paper; ;blue3
+RW235;t1967;review;5;2.5;paper; ;blue3
+RW71;t1968;review;5;2.5;paper; ;blue3
+RW137;t1971;review;5;2.5;paper; ;blue3
+RW206;t1978;review;5;2.5;paper; ;blue3
+RW207;t1979;review;5;2.5;paper; ;blue3
+RW209;t1981;review;5;2.5;paper; ;blue3
+RW210;t1982;review;5;2.5;paper; ;blue3
+RW232;t1985;review;5;2.5;paper; ;blue3
+RW233;t1986;review;5;2.5;paper; ;blue3
+RW235;t1987;review;5;2.5;paper; ;blue3
+RW232;t1988;review;5;2.5;paper; ;blue3
+RW233;t1989;review;5;2.5;paper; ;blue3
+RW235;t1990;review;5;2.5;paper; ;blue3
+RW71;t1992;review;5;2.5;paper; ;blue3
+RW137;t1995;review;5;2.5;paper; ;blue3
+RW206;t2002;review;5;2.5;paper; ;blue3
+RW207;t2003;review;5;2.5;paper; ;blue3
+RW209;t2005;review;5;2.5;paper; ;blue3
+RW210;t2006;review;5;2.5;paper; ;blue3
+RW232;t2009;review;5;2.5;paper; ;blue3
+RW233;t2010;review;5;2.5;paper; ;blue3
+RW235;t2011;review;5;2.5;paper; ;blue3
+RW71;t2018;review;5;2.5;paper; ;blue3
+RW137;t2021;review;5;2.5;paper; ;blue3
+RW206;t2028;review;5;2.5;paper; ;blue3
+RW207;t2029;review;5;2.5;paper; ;blue3
+RW209;t2031;review;5;2.5;paper; ;blue3
+RW210;t2032;review;5;2.5;paper; ;blue3
+RW232;t2035;review;5;2.5;paper; ;blue3
+RW233;t2036;review;5;2.5;paper; ;blue3
+RW235;t2037;review;5;2.5;paper; ;blue3
+RW71;t2061;review;5;2.5;paper; ;blue3
+RW137;t2064;review;5;2.5;paper; ;blue3
+RW206;t2071;review;5;2.5;paper; ;blue3
+RW207;t2072;review;5;2.5;paper; ;blue3
+RW209;t2074;review;5;2.5;paper; ;blue3
+RW210;t2075;review;5;2.5;paper; ;blue3
+RW232;t2078;review;5;2.5;paper; ;blue3
+RW233;t2079;review;5;2.5;paper; ;blue3
+RW235;t2080;review;5;2.5;paper; ;blue3
+RW71;t2081;review;5;2.5;paper; ;blue3
+RW137;t2084;review;5;2.5;paper; ;blue3
+RW232;t2087;review;5;2.5;paper; ;blue3
+RW233;t2088;review;5;2.5;paper; ;blue3
+RW235;t2089;review;5;2.5;paper; ;blue3
+RW71;t2090;review;5;2.5;paper; ;blue3
+RW137;t2093;review;5;2.5;paper; ;blue3
+RW71;t2097;review;5;2.5;paper; ;blue3
+RW137;t2100;review;5;2.5;paper; ;blue3
+RW73;t2122;review;5;2.5;paper; ;dodgerblue2
+RW73;t2133;review;5;2.5;paper; ;dodgerblue2
+RW73;t2142;review;5;2.5;paper; ;dodgerblue2
+RW4;t2181;review;5;2.5;paper; ;slateblue3
+RW4;t2186;review;5;2.5;paper; ;slateblue3
+RW4;t2200;review;5;2.5;paper; ;slateblue3
+RW4;t2201;review;5;2.5;paper; ;slateblue3
+RW64;t2204;review;5;2.5;paper; ;tan4
+RW64;t2206;review;5;2.5;paper; ;tan4
+RW284;t2212;review;5;2.5;paper; ;darkblue
+RW294;t2213;review;5;2.5;paper; ;darkblue
+RW294;t2214;review;5;2.5;paper; ;darkblue
+RW284;t2226;review;5;2.5;paper; ;darkblue
+RW284;t2233;review;5;2.5;paper; ;darkblue
+RW284;t2246;review;5;2.5;paper; ;darkblue
+RW284;t2259;review;5;2.5;paper; ;darkblue
+RW294;t2260;review;5;2.5;paper; ;darkblue
+RW284;t2261;review;5;2.5;paper; ;darkblue
+RW294;t2280;review;5;2.5;paper; ;darkblue
+RW64;t2300;review;5;2.5;paper; ;lightsalmon4
+RW300;t2311;review;5;2.5;paper; ;lightcoral
+RW300;t2314;review;5;2.5;paper; ;lightcoral
+RW288;t2368;review;5;2.5;paper; ;deepskyblue4
+RW288;t2417;review;5;2.5;paper; ;deepskyblue4
+RW225;t2437;review;5;2.5;paper; ;deepskyblue4
+RW225;t2438;review;5;2.5;paper; ;deepskyblue4
+RW288;t2475;review;5;2.5;paper; ;deepskyblue4
+RW12;t2485;review;5;2.5;paper; ;deepskyblue4
+RW288;t2502;review;5;2.5;paper; ;deepskyblue4
+RW181;t2522;review;5;2.5;paper; ;darkgreen
+RW181;t2531;review;5;2.5;paper; ;darkgreen
+RW62;t2538;review;5;2.5;paper; ;darkgreen
+RW229;t2564;review;5;2.5;paper; ;darkgreen
+RW225;t2583;review;5;2.5;paper; ;darkgreen
+RW64;t2591;review;5;2.5;paper; ;darkgreen
+RW181;t2597;review;5;2.5;paper; ;darkgreen
+RW229;t2613;review;5;2.5;paper; ;darkgreen
+RW197;t2619;review;5;2.5;paper; ;darkgreen
+RW62;t2621;review;5;2.5;paper; ;darkgreen
+RW64;t2625;review;5;2.5;paper; ;darkgreen
+RW181;t2628;review;5;2.5;paper; ;darkgreen
+RW197;t2629;review;5;2.5;paper; ;darkgreen
+RW197;t2630;review;5;2.5;paper; ;darkgreen
+RW62;t2638;review;5;2.5;paper; ;darkgreen
+RW197;t2639;review;5;2.5;paper; ;darkgreen
+RW229;t2646;review;5;2.5;paper; ;darkgreen
+RW229;t2649;review;5;2.5;paper; ;darkgreen
+RW225;t2650;review;5;2.5;paper; ;darkgreen
+RW229;t2659;review;5;2.5;paper; ;darkgreen
+RW62;t2662;review;5;2.5;paper; ;darkgreen
+RW62;t2671;review;5;2.5;paper; ;darkgreen
+RW62;t2688;review;5;2.5;paper; ;darkgreen
+RW62;t2693;review;5;2.5;paper; ;darkgreen
+RW197;t2697;review;5;2.5;paper; ;darkgreen
+RW197;t2698;review;5;2.5;paper; ;darkgreen
+RW86;t1401;review;6;2.5;paper; ;olivedrab4
+RW72;t1408;review;6;2.5;paper; ;olivedrab4
+RW97;t1409;review;6;2.5;paper; ;olivedrab4
+RW72;t1413;review;6;2.5;paper; ;olivedrab4
+RW97;t1414;review;6;2.5;paper; ;olivedrab4
+RW116;t1415;review;6;2.5;paper; ;olivedrab4
+RW72;t1419;review;6;2.5;paper; ;olivedrab4
+RW97;t1420;review;6;2.5;paper; ;olivedrab4
+RW45;t1422;review;6;2.5;paper; ;olivedrab4
+RW72;t1424;review;6;2.5;paper; ;olivedrab4
+RW97;t1425;review;6;2.5;paper; ;olivedrab4
+RW45;t1427;review;6;2.5;paper; ;olivedrab4
+RW72;t1429;review;6;2.5;paper; ;olivedrab4
+RW97;t1430;review;6;2.5;paper; ;olivedrab4
+RW1;t1431;review;6;2.5;paper; ;olivedrab4
+RW116;t1432;review;6;2.5;paper; ;olivedrab4
+RW1;t1433;review;6;2.5;paper; ;olivedrab4
+RW72;t1436;review;6;2.5;paper; ;olivedrab4
+RW97;t1437;review;6;2.5;paper; ;olivedrab4
+RW276;t1438;review;6;2.5;paper; ;olivedrab4
+RW276;t1439;review;6;2.5;paper; ;olivedrab4
+RW86;t1440;review;6;2.5;paper; ;olivedrab4
+RW72;t1443;review;6;2.5;paper; ;olivedrab4
+RW97;t1444;review;6;2.5;paper; ;olivedrab4
+RW45;t1446;review;6;2.5;paper; ;olivedrab4
+RW72;t1448;review;6;2.5;paper; ;olivedrab4
+RW97;t1449;review;6;2.5;paper; ;olivedrab4
+RW45;t1456;review;6;2.5;paper; ;olivedrab4
+RW72;t1458;review;6;2.5;paper; ;olivedrab4
+RW97;t1459;review;6;2.5;paper; ;olivedrab4
+RW116;t1460;review;6;2.5;paper; ;olivedrab4
+RW86;t1461;review;6;2.5;paper; ;olivedrab4
+RW72;t1464;review;6;2.5;paper; ;olivedrab4
+RW97;t1465;review;6;2.5;paper; ;olivedrab4
+RW72;t1468;review;6;2.5;paper; ;olivedrab4
+RW97;t1469;review;6;2.5;paper; ;olivedrab4
+RW97;t1474;review;6;2.5;paper; ;olivedrab4
+RW72;t1479;review;6;2.5;paper; ;olivedrab4
+RW97;t1480;review;6;2.5;paper; ;olivedrab4
+RW276;t1481;review;6;2.5;paper; ;olivedrab4
+RW72;t1484;review;6;2.5;paper; ;olivedrab4
+RW97;t1485;review;6;2.5;paper; ;olivedrab4
+RW276;t1486;review;6;2.5;paper; ;olivedrab4
+RW1;t1487;review;6;2.5;paper; ;olivedrab4
+RW72;t1491;review;6;2.5;paper; ;olivedrab4
+RW97;t1492;review;6;2.5;paper; ;olivedrab4
+RW86;t1495;review;6;2.5;paper; ;olivedrab4
+RW127;t1501;review;6;2.5;paper; ;red
+RW127;t1508;review;6;2.5;paper; ;red
+RW127;t1510;review;6;2.5;paper; ;red
+RW298;t1513;review;6;2.5;paper; ;red
+RW76;t1514;review;6;2.5;paper; ;red
+RW127;t1517;review;6;2.5;paper; ;red
+RW127;t1522;review;6;2.5;paper; ;red
+RW166;t1525;review;6;2.5;paper; ;red
+RW168;t1526;review;6;2.5;paper; ;red
+RW35;t1528;review;6;2.5;paper; ;red
+RW35;t1529;review;6;2.5;paper; ;red
+RW76;t1541;review;6;2.5;paper; ;red
+RW127;t1548;review;6;2.5;paper; ;red
+RW35;t1549;review;6;2.5;paper; ;red
+RW168;t1565;review;6;2.5;paper; ;red
+RW166;t1566;review;6;2.5;paper; ;red
+RW127;t1568;review;6;2.5;paper; ;red
+RW127;t1575;review;6;2.5;paper; ;red
+RW127;t1582;review;6;2.5;paper; ;red
+RW127;t1585;review;6;2.5;paper; ;red
+RW298;t1604;review;6;2.5;paper; ;red
+RW298;t1609;review;6;2.5;paper; ;red
+RW298;t1610;review;6;2.5;paper; ;red
+RW76;t1612;review;6;2.5;paper; ;red
+RW127;t1614;review;6;2.5;paper; ;red
+RW127;t1615;review;6;2.5;paper; ;red
+RW166;t1621;review;6;2.5;paper; ;red
+RW168;t1622;review;6;2.5;paper; ;red
+RW298;t1623;review;6;2.5;paper; ;red
+RW127;t1626;review;6;2.5;paper; ;red
+RW127;t1637;review;6;2.5;paper; ;red
+RW127;t1653;review;6;2.5;paper; ;red
+RW127;t1657;review;6;2.5;paper; ;red
+RW76;t1658;review;6;2.5;paper; ;red
+RW127;t1669;review;6;2.5;paper; ;red
+RW127;t1680;review;6;2.5;paper; ;red
+RW166;t1681;review;6;2.5;paper; ;red
+RW168;t1682;review;6;2.5;paper; ;red
+RW76;t1683;review;6;2.5;paper; ;red
+RW127;t1685;review;6;2.5;paper; ;red
+RW127;t1701;review;6;2.5;paper; ;red
+RW166;t1706;review;6;2.5;paper; ;red
+RW168;t1707;review;6;2.5;paper; ;red
+RW166;t1710;review;6;2.5;paper; ;red
+RW168;t1711;review;6;2.5;paper; ;red
+RW167;t1717;review;6;2.5;paper; ;royalblue2
+RW167;t1718;review;6;2.5;paper; ;royalblue2
+RW167;t1719;review;6;2.5;paper; ;royalblue2
+RW112;t1735;review;6;2.5;paper; ;blue3
+RW125;t1736;review;6;2.5;paper; ;blue3
+RW254;t1757;review;6;2.5;paper; ;blue3
+RW112;t1767;review;6;2.5;paper; ;blue3
+RW125;t1768;review;6;2.5;paper; ;blue3
+RW254;t1789;review;6;2.5;paper; ;blue3
+RW254;t1804;review;6;2.5;paper; ;blue3
+RW112;t1807;review;6;2.5;paper; ;blue3
+RW125;t1808;review;6;2.5;paper; ;blue3
+RW112;t1816;review;6;2.5;paper; ;blue3
+RW125;t1817;review;6;2.5;paper; ;blue3
+RW254;t1827;review;6;2.5;paper; ;blue3
+RW112;t1829;review;6;2.5;paper; ;blue3
+RW125;t1830;review;6;2.5;paper; ;blue3
+RW254;t1859;review;6;2.5;paper; ;blue3
+RW112;t1887;review;6;2.5;paper; ;blue3
+RW125;t1888;review;6;2.5;paper; ;blue3
+RW254;t1909;review;6;2.5;paper; ;blue3
+RW112;t1911;review;6;2.5;paper; ;blue3
+RW125;t1912;review;6;2.5;paper; ;blue3
+RW254;t1933;review;6;2.5;paper; ;blue3
+RW112;t1936;review;6;2.5;paper; ;blue3
+RW125;t1937;review;6;2.5;paper; ;blue3
+RW254;t1958;review;6;2.5;paper; ;blue3
+RW128;t1961;review;6;2.5;paper; ;blue3
+RW112;t1969;review;6;2.5;paper; ;blue3
+RW125;t1970;review;6;2.5;paper; ;blue3
+RW112;t1993;review;6;2.5;paper; ;blue3
+RW125;t1994;review;6;2.5;paper; ;blue3
+RW254;t2015;review;6;2.5;paper; ;blue3
+RW112;t2019;review;6;2.5;paper; ;blue3
+RW125;t2020;review;6;2.5;paper; ;blue3
+RW254;t2041;review;6;2.5;paper; ;blue3
+RW254;t2051;review;6;2.5;paper; ;blue3
+RW254;t2056;review;6;2.5;paper; ;blue3
+RW254;t2060;review;6;2.5;paper; ;blue3
+RW112;t2062;review;6;2.5;paper; ;blue3
+RW125;t2063;review;6;2.5;paper; ;blue3
+RW112;t2082;review;6;2.5;paper; ;blue3
+RW125;t2083;review;6;2.5;paper; ;blue3
+RW112;t2091;review;6;2.5;paper; ;blue3
+RW125;t2092;review;6;2.5;paper; ;blue3
+RW112;t2098;review;6;2.5;paper; ;blue3
+RW125;t2099;review;6;2.5;paper; ;blue3
+RW42;t2118;review;6;2.5;paper; ;dodgerblue2
+RW217;t2128;review;6;2.5;paper; ;dodgerblue2
+RW33;t2168;review;6;2.5;paper; ;cornflowerblue
+RW160;t2223;review;6;2.5;paper; ;darkblue
+RW160;t2231;review;6;2.5;paper; ;darkblue
+RW160;t2234;review;6;2.5;paper; ;darkblue
+RW291;t2248;review;6;2.5;paper; ;darkblue
+RW160;t2254;review;6;2.5;paper; ;darkblue
+RW160;t2267;review;6;2.5;paper; ;darkblue
+RW291;t2272;review;6;2.5;paper; ;darkblue
+RW291;t2274;review;6;2.5;paper; ;darkblue
+RW291;t2279;review;6;2.5;paper; ;darkblue
+RW128;t2308;review;6;2.5;paper; ;pink
+RW93;t2357;review;6;2.5;paper; ;purple3
+RW93;t2361;review;6;2.5;paper; ;purple3
+RW33;t2363;review;6;2.5;paper; ;deepskyblue4
+RW188;t2367;review;6;2.5;paper; ;deepskyblue4
+RW290;t2369;review;6;2.5;paper; ;deepskyblue4
+RW214;t2371;review;6;2.5;paper; ;deepskyblue4
+RW42;t2372;review;6;2.5;paper; ;deepskyblue4
+RW42;t2373;review;6;2.5;paper; ;deepskyblue4
+RW53;t2376;review;6;2.5;paper; ;deepskyblue4
+RW39;t2379;review;6;2.5;paper; ;deepskyblue4
+RW42;t2381;review;6;2.5;paper; ;deepskyblue4
+RW53;t2383;review;6;2.5;paper; ;deepskyblue4
+RW188;t2384;review;6;2.5;paper; ;deepskyblue4
+RW33;t2385;review;6;2.5;paper; ;deepskyblue4
+RW217;t2386;review;6;2.5;paper; ;deepskyblue4
+RW53;t2392;review;6;2.5;paper; ;deepskyblue4
+RW188;t2395;review;6;2.5;paper; ;deepskyblue4
+RW217;t2402;review;6;2.5;paper; ;deepskyblue4
+RW42;t2403;review;6;2.5;paper; ;deepskyblue4
+RW53;t2411;review;6;2.5;paper; ;deepskyblue4
+RW188;t2413;review;6;2.5;paper; ;deepskyblue4
+RW290;t2419;review;6;2.5;paper; ;deepskyblue4
+RW33;t2420;review;6;2.5;paper; ;deepskyblue4
+RW217;t2423;review;6;2.5;paper; ;deepskyblue4
+RW53;t2426;review;6;2.5;paper; ;deepskyblue4
+RW53;t2436;review;6;2.5;paper; ;deepskyblue4
+RW290;t2442;review;6;2.5;paper; ;deepskyblue4
+RW39;t2445;review;6;2.5;paper; ;deepskyblue4
+RW128;t2456;review;6;2.5;paper; ;deepskyblue4
+RW42;t2465;review;6;2.5;paper; ;deepskyblue4
+RW42;t2470;review;6;2.5;paper; ;deepskyblue4
+RW72;t2477;review;6;2.5;paper; ;deepskyblue4
+RW33;t2478;review;6;2.5;paper; ;deepskyblue4
+RW171;t2482;review;6;2.5;paper; ;deepskyblue4
+RW171;t2483;review;6;2.5;paper; ;deepskyblue4
+RW72;t2487;review;6;2.5;paper; ;deepskyblue4
+RW97;t2488;review;6;2.5;paper; ;deepskyblue4
+RW171;t2491;review;6;2.5;paper; ;deepskyblue4
+RW33;t2494;review;6;2.5;paper; ;deepskyblue4
+RW188;t2495;review;6;2.5;paper; ;deepskyblue4
+RW171;t2496;review;6;2.5;paper; ;deepskyblue4
+RW42;t2497;review;6;2.5;paper; ;deepskyblue4
+RW42;t2500;review;6;2.5;paper; ;deepskyblue4
+RW290;t2504;review;6;2.5;paper; ;deepskyblue4
+RW171;t2505;review;6;2.5;paper; ;deepskyblue4
+RW39;t2508;review;6;2.5;paper; ;deepskyblue4
+RW214;t2514;review;6;2.5;paper; ;darkgreen
+RW109;t2518;review;6;2.5;paper; ;darkgreen
+RW214;t2526;review;6;2.5;paper; ;darkgreen
+RW128;t2565;review;6;2.5;paper; ;darkgreen
+RW214;t2574;review;6;2.5;paper; ;darkgreen
+RW254;t2589;review;6;2.5;paper; ;darkgreen
+RW214;t2600;review;6;2.5;paper; ;darkgreen
+RW109;t2601;review;6;2.5;paper; ;darkgreen
+RW42;t2617;review;6;2.5;paper; ;darkgreen
+RW128;t2634;review;6;2.5;paper; ;darkgreen
+RW109;t2664;review;6;2.5;paper; ;darkgreen
+RW93;t2670;review;6;2.5;paper; ;darkgreen
+RW93;t2677;review;6;2.5;paper; ;darkgreen
+RW110;t1352;review;7;2.5;paper; ;yellow4
+RW44;t1357;review;7;2.5;paper; ;yellow4
+RW110;t1358;review;7;2.5;paper; ;yellow4
+RW155;t1361;review;7;2.5;paper; ;yellow4
+RW44;t1366;review;7;2.5;paper; ;yellow4
+RW110;t1368;review;7;2.5;paper; ;yellow4
+RW155;t1371;review;7;2.5;paper; ;yellow4
+RW44;t1375;review;7;2.5;paper; ;yellow4
+RW110;t1377;review;7;2.5;paper; ;yellow4
+RW155;t1380;review;7;2.5;paper; ;yellow4
+RW44;t1384;review;7;2.5;paper; ;yellow4
+RW155;t1386;review;7;2.5;paper; ;yellow4
+RW262;t1402;review;7;2.5;paper; ;olivedrab4
+RW143;t1403;review;7;2.5;paper; ;olivedrab4
+RW262;t1404;review;7;2.5;paper; ;olivedrab4
+RW143;t1416;review;7;2.5;paper; ;olivedrab4
+RW143;t1470;review;7;2.5;paper; ;olivedrab4
+RW262;t1488;review;7;2.5;paper; ;olivedrab4
+RW262;t1493;review;7;2.5;paper; ;olivedrab4
+RW143;t1494;review;7;2.5;paper; ;olivedrab4
+RW18;t1505;review;7;2.5;paper; ;red
+RW224;t1506;review;7;2.5;paper; ;red
+RW221;t1509;review;7;2.5;paper; ;red
+RW67;t1512;review;7;2.5;paper; ;red
+RW49;t1520;review;7;2.5;paper; ;red
+RW18;t1531;review;7;2.5;paper; ;red
+RW224;t1532;review;7;2.5;paper; ;red
+RW44;t1536;review;7;2.5;paper; ;red
+RW49;t1538;review;7;2.5;paper; ;red
+RW49;t1545;review;7;2.5;paper; ;red
+RW103;t1546;review;7;2.5;paper; ;red
+RW18;t1550;review;7;2.5;paper; ;red
+RW221;t1569;review;7;2.5;paper; ;red
+RW67;t1571;review;7;2.5;paper; ;red
+RW224;t1577;review;7;2.5;paper; ;red
+RW67;t1579;review;7;2.5;paper; ;red
+RW224;t1583;review;7;2.5;paper; ;red
+RW44;t1589;review;7;2.5;paper; ;red
+RW110;t1591;review;7;2.5;paper; ;red
+RW155;t1594;review;7;2.5;paper; ;red
+RW67;t1597;review;7;2.5;paper; ;red
+RW221;t1598;review;7;2.5;paper; ;red
+RW8;t1605;review;7;2.5;paper; ;red
+RW103;t1611;review;7;2.5;paper; ;red
+RW49;t1617;review;7;2.5;paper; ;red
+RW221;t1628;review;7;2.5;paper; ;red
+RW49;t1629;review;7;2.5;paper; ;red
+RW49;t1631;review;7;2.5;paper; ;red
+RW67;t1632;review;7;2.5;paper; ;red
+RW224;t1633;review;7;2.5;paper; ;red
+RW8;t1634;review;7;2.5;paper; ;red
+RW8;t1635;review;7;2.5;paper; ;red
+RW22;t1636;review;7;2.5;paper; ;red
+RW49;t1638;review;7;2.5;paper; ;red
+RW8;t1640;review;7;2.5;paper; ;red
+RW178;t1642;review;7;2.5;paper; ;red
+RW18;t1645;review;7;2.5;paper; ;red
+RW224;t1646;review;7;2.5;paper; ;red
+RW8;t1649;review;7;2.5;paper; ;red
+RW18;t1659;review;7;2.5;paper; ;red
+RW221;t1663;review;7;2.5;paper; ;red
+RW44;t1666;review;7;2.5;paper; ;red
+RW8;t1671;review;7;2.5;paper; ;red
+RW155;t1675;review;7;2.5;paper; ;red
+RW44;t1676;review;7;2.5;paper; ;red
+RW221;t1678;review;7;2.5;paper; ;red
+RW22;t1679;review;7;2.5;paper; ;red
+RW67;t1684;review;7;2.5;paper; ;red
+RW103;t1687;review;7;2.5;paper; ;red
+RW221;t1688;review;7;2.5;paper; ;red
+RW22;t1689;review;7;2.5;paper; ;red
+RW67;t1691;review;7;2.5;paper; ;red
+RW8;t1692;review;7;2.5;paper; ;red
+RW67;t1693;review;7;2.5;paper; ;red
+RW67;t1696;review;7;2.5;paper; ;red
+RW103;t1702;review;7;2.5;paper; ;red
+RW159;t1741;review;7;2.5;paper; ;blue3
+RW159;t1773;review;7;2.5;paper; ;blue3
+RW38;t1805;review;7;2.5;paper; ;blue3
+RW159;t1813;review;7;2.5;paper; ;blue3
+RW159;t1822;review;7;2.5;paper; ;blue3
+RW159;t1843;review;7;2.5;paper; ;blue3
+RW38;t1861;review;7;2.5;paper; ;blue3
+RW38;t1870;review;7;2.5;paper; ;blue3
+RW159;t1884;review;7;2.5;paper; ;blue3
+RW159;t1893;review;7;2.5;paper; ;blue3
+RW159;t1917;review;7;2.5;paper; ;blue3
+RW38;t1934;review;7;2.5;paper; ;blue3
+RW159;t1942;review;7;2.5;paper; ;blue3
+RW159;t1975;review;7;2.5;paper; ;blue3
+RW38;t1991;review;7;2.5;paper; ;blue3
+RW159;t1999;review;7;2.5;paper; ;blue3
+RW38;t2017;review;7;2.5;paper; ;blue3
+RW159;t2025;review;7;2.5;paper; ;blue3
+RW266;t2042;review;7;2.5;paper; ;blue3
+RW38;t2043;review;7;2.5;paper; ;blue3
+RW159;t2046;review;7;2.5;paper; ;blue3
+RW266;t2052;review;7;2.5;paper; ;blue3
+RW159;t2068;review;7;2.5;paper; ;blue3
+RW196;t2105;review;7;2.5;paper; ;dodgerblue2
+RW196;t2108;review;7;2.5;paper; ;dodgerblue2
+RW106;t2109;review;7;2.5;paper; ;dodgerblue2
+RW196;t2115;review;7;2.5;paper; ;dodgerblue2
+RW106;t2123;review;7;2.5;paper; ;dodgerblue2
+RW196;t2124;review;7;2.5;paper; ;dodgerblue2
+RW196;t2125;review;7;2.5;paper; ;dodgerblue2
+RW196;t2126;review;7;2.5;paper; ;dodgerblue2
+RW106;t2134;review;7;2.5;paper; ;dodgerblue2
+RW196;t2135;review;7;2.5;paper; ;dodgerblue2
+RW196;t2136;review;7;2.5;paper; ;dodgerblue2
+RW267;t2137;review;7;2.5;paper; ;dodgerblue2
+RW196;t2138;review;7;2.5;paper; ;dodgerblue2
+RW106;t2139;review;7;2.5;paper; ;dodgerblue2
+RW196;t2140;review;7;2.5;paper; ;dodgerblue2
+RW106;t2143;review;7;2.5;paper; ;dodgerblue2
+RW106;t2146;review;7;2.5;paper; ;dodgerblue2
+RW58;t2164;review;7;2.5;paper; ;cornflowerblue
+RW58;t2165;review;7;2.5;paper; ;cornflowerblue
+RW58;t2166;review;7;2.5;paper; ;cornflowerblue
+RW58;t2167;review;7;2.5;paper; ;cornflowerblue
+RW58;t2169;review;7;2.5;paper; ;cornflowerblue
+RW267;t2194;review;7;2.5;paper; ;slateblue3
+RW178;t2205;review;7;2.5;paper; ;tan4
+RW61;t2217;review;7;2.5;paper; ;darkblue
+RW245;t2219;review;7;2.5;paper; ;darkblue
+RW61;t2220;review;7;2.5;paper; ;darkblue
+RW245;t2225;review;7;2.5;paper; ;darkblue
+RW126;t2229;review;7;2.5;paper; ;darkblue
+RW126;t2236;review;7;2.5;paper; ;darkblue
+RW61;t2242;review;7;2.5;paper; ;darkblue
+RW126;t2247;review;7;2.5;paper; ;darkblue
+RW61;t2251;review;7;2.5;paper; ;darkblue
+RW245;t2256;review;7;2.5;paper; ;darkblue
+RW61;t2263;review;7;2.5;paper; ;darkblue
+RW126;t2265;review;7;2.5;paper; ;darkblue
+RW245;t2270;review;7;2.5;paper; ;darkblue
+RW61;t2275;review;7;2.5;paper; ;darkblue
+RW108;t2282;review;7;2.5;paper; ;cyan4
+RW108;t2283;review;7;2.5;paper; ;cyan4
+RW108;t2284;review;7;2.5;paper; ;cyan4
+RW108;t2285;review;7;2.5;paper; ;cyan4
+RW108;t2287;review;7;2.5;paper; ;cyan4
+RW140;t2292;review;7;2.5;paper; ;blue1
+RW140;t2295;review;7;2.5;paper; ;blue1
+RW23;t2318;review;7;2.5;paper; ;royalblue1
+RW23;t2320;review;7;2.5;paper; ;royalblue1
+RW23;t2323;review;7;2.5;paper; ;royalblue1
+RW23;t2331;review;7;2.5;paper; ;royalblue1
+RW23;t2339;review;7;2.5;paper; ;royalblue1
+RW23;t2349;review;7;2.5;paper; ;royalblue1
+RW23;t2352;review;7;2.5;paper; ;royalblue1
+RW140;t2353;review;7;2.5;paper; ;turquoise3
+RW47;t2356;review;7;2.5;paper; ;purple3
+RW47;t2360;review;7;2.5;paper; ;purple3
+RW289;t2391;review;7;2.5;paper; ;deepskyblue4
+RW289;t2393;review;7;2.5;paper; ;deepskyblue4
+RW285;t2397;review;7;2.5;paper; ;deepskyblue4
+RW30;t2398;review;7;2.5;paper; ;deepskyblue4
+RW10;t2404;review;7;2.5;paper; ;deepskyblue4
+RW30;t2409;review;7;2.5;paper; ;deepskyblue4
+RW289;t2418;review;7;2.5;paper; ;deepskyblue4
+RW30;t2421;review;7;2.5;paper; ;deepskyblue4
+RW289;t2441;review;7;2.5;paper; ;deepskyblue4
+RW285;t2451;review;7;2.5;paper; ;deepskyblue4
+RW285;t2453;review;7;2.5;paper; ;deepskyblue4
+RW30;t2461;review;7;2.5;paper; ;deepskyblue4
+RW10;t2464;review;7;2.5;paper; ;deepskyblue4
+RW10;t2501;review;7;2.5;paper; ;deepskyblue4
+RW289;t2503;review;7;2.5;paper; ;deepskyblue4
+RW178;t2515;review;7;2.5;paper; ;darkgreen
+RW185;t2523;review;7;2.5;paper; ;darkgreen
+RW185;t2532;review;7;2.5;paper; ;darkgreen
+RW269;t2544;review;7;2.5;paper; ;darkgreen
+RW262;t2570;review;7;2.5;paper; ;darkgreen
+RW178;t2592;review;7;2.5;paper; ;darkgreen
+RW185;t2598;review;7;2.5;paper; ;darkgreen
+RW269;t2602;review;7;2.5;paper; ;darkgreen
+RW269;t2612;review;7;2.5;paper; ;darkgreen
+RW269;t2624;review;7;2.5;paper; ;darkgreen
+RW178;t2626;review;7;2.5;paper; ;darkgreen
+RW269;t2637;review;7;2.5;paper; ;darkgreen
+RW38;t2674;review;7;2.5;paper; ;darkgreen
+RW262;t2686;review;7;2.5;paper; ;darkgreen
+RW176;t1354;review;8;5;paper; ;yellow4
+RW176;t1362;review;8;5;paper; ;yellow4
+RW176;t1372;review;8;5;paper; ;yellow4
+RW176;t1381;review;8;5;paper; ;yellow4
+RW146;t1391;review;8;5;paper; ;violetred4
+RW146;t1393;review;8;5;paper; ;violetred4
+RW146;t1394;review;8;5;paper; ;violetred4
+RW146;t1395;review;8;5;paper; ;violetred4
+RW146;t1397;review;8;5;paper; ;violetred4
+RW146;t1398;review;8;5;paper; ;violetred4
+RW146;t1399;review;8;5;paper; ;violetred4
+RW146;t1400;review;8;5;paper; ;violetred4
+RW7;t1503;review;8;5;paper; ;red
+RW7;t1539;review;8;5;paper; ;red
+RW104;t1542;review;8;5;paper; ;red
+RW36;t1553;review;8;5;paper; ;red
+RW28;t1554;review;8;5;paper; ;red
+RW36;t1556;review;8;5;paper; ;red
+RW28;t1557;review;8;5;paper; ;red
+RW36;t1559;review;8;5;paper; ;red
+RW3;t1564;review;8;5;paper; ;red
+RW28;t1573;review;8;5;paper; ;red
+RW3;t1576;review;8;5;paper; ;red
+RW3;t1580;review;8;5;paper; ;red
+RW176;t1595;review;8;5;paper; ;red
+RW104;t1599;review;8;5;paper; ;red
+RW28;t1603;review;8;5;paper; ;red
+RW36;t1607;review;8;5;paper; ;red
+RW24;t1619;review;8;5;paper; ;red
+RW7;t1639;review;8;5;paper; ;red
+RW28;t1641;review;8;5;paper; ;red
+RW24;t1643;review;8;5;paper; ;red
+RW104;t1651;review;8;5;paper; ;red
+RW36;t1655;review;8;5;paper; ;red
+RW193;t1656;review;8;5;paper; ;red
+RW7;t1662;review;8;5;paper; ;red
+RW24;t1664;review;8;5;paper; ;red
+RW3;t1668;review;8;5;paper; ;red
+RW193;t1695;review;8;5;paper; ;red
+RW104;t1697;review;8;5;paper; ;red
+RW104;t1699;review;8;5;paper; ;red
+RW36;t1704;review;8;5;paper; ;red
+RW24;t1713;review;8;5;paper; ;red
+RW7;t1714;review;8;5;paper; ;red
+RW9;t1720;review;8;5;paper; ;navyblue
+RW9;t1721;review;8;5;paper; ;navyblue
+RW9;t1724;review;8;5;paper; ;navyblue
+RW9;t1727;review;8;5;paper; ;navyblue
+RW240;t1730;review;8;5;paper; ;navyblue
+RW9;t1732;review;8;5;paper; ;navyblue
+RW158;t1740;review;8;5;paper; ;blue3
+RW158;t1772;review;8;5;paper; ;blue3
+RW158;t1812;review;8;5;paper; ;blue3
+RW158;t1821;review;8;5;paper; ;blue3
+RW158;t1842;review;8;5;paper; ;blue3
+RW55;t1860;review;8;5;paper; ;blue3
+RW158;t1883;review;8;5;paper; ;blue3
+RW158;t1892;review;8;5;paper; ;blue3
+RW158;t1916;review;8;5;paper; ;blue3
+RW158;t1941;review;8;5;paper; ;blue3
+RW55;t1960;review;8;5;paper; ;blue3
+RW55;t1964;review;8;5;paper; ;blue3
+RW158;t1974;review;8;5;paper; ;blue3
+RW158;t1998;review;8;5;paper; ;blue3
+RW55;t2016;review;8;5;paper; ;blue3
+RW158;t2024;review;8;5;paper; ;blue3
+RW158;t2045;review;8;5;paper; ;blue3
+RW158;t2067;review;8;5;paper; ;blue3
+RW55;t2086;review;8;5;paper; ;blue3
+RW55;t2095;review;8;5;paper; ;blue3
+RW2;t2096;review;8;5;paper; ;blue3
+RW268;t2113;review;8;5;paper; ;dodgerblue2
+RW268;t2117;review;8;5;paper; ;dodgerblue2
+RW268;t2141;review;8;5;paper; ;dodgerblue2
+RW268;t2149;review;8;5;paper; ;dodgerblue2
+RW268;t2151;review;8;5;paper; ;dodgerblue2
+RW51;t2175;review;8;5;paper; ;slateblue3
+RW51;t2176;review;8;5;paper; ;slateblue3
+RW51;t2183;review;8;5;paper; ;slateblue3
+RW51;t2187;review;8;5;paper; ;slateblue3
+RW51;t2192;review;8;5;paper; ;slateblue3
+RW51;t2195;review;8;5;paper; ;slateblue3
+RW2;t2210;review;8;5;paper; ;darkblue
+RW113;t2215;review;8;5;paper; ;darkblue
+RW74;t2218;review;8;5;paper; ;darkblue
+RW74;t2221;review;8;5;paper; ;darkblue
+RW113;t2237;review;8;5;paper; ;darkblue
+RW113;t2239;review;8;5;paper; ;darkblue
+RW2;t2249;review;8;5;paper; ;darkblue
+RW74;t2252;review;8;5;paper; ;darkblue
+RW113;t2257;review;8;5;paper; ;darkblue
+RW2;t2262;review;8;5;paper; ;darkblue
+RW74;t2264;review;8;5;paper; ;darkblue
+RW2;t2271;review;8;5;paper; ;darkblue
+RW2;t2277;review;8;5;paper; ;darkblue
+RW113;t2281;review;8;5;paper; ;darkblue
+RW94;t2319;review;8;5;paper; ;royalblue1
+RW115;t2326;review;8;5;paper; ;royalblue1
+RW94;t2328;review;8;5;paper; ;royalblue1
+RW115;t2333;review;8;5;paper; ;royalblue1
+RW94;t2335;review;8;5;paper; ;royalblue1
+RW115;t2342;review;8;5;paper; ;royalblue1
+RW94;t2345;review;8;5;paper; ;royalblue1
+RW94;t2350;review;8;5;paper; ;royalblue1
+RW115;t2351;review;8;5;paper; ;royalblue1
+RW20;t2358;review;8;5;paper; ;purple3
+RW36;t2359;review;8;5;paper; ;purple3
+RW240;t2377;review;8;5;paper; ;deepskyblue4
+RW51;t2458;review;8;5;paper; ;deepskyblue4
+RW240;t2493;review;8;5;paper; ;deepskyblue4
+RW107;t2517;review;8;5;paper; ;darkgreen
+RW153;t2519;review;8;5;paper; ;darkgreen
+RW177;t2521;review;8;5;paper; ;darkgreen
+RW107;t2527;review;8;5;paper; ;darkgreen
+RW153;t2528;review;8;5;paper; ;darkgreen
+RW177;t2530;review;8;5;paper; ;darkgreen
+RW36;t2549;review;8;5;paper; ;darkgreen
+RW28;t2556;review;8;5;paper; ;darkgreen
+RW107;t2562;review;8;5;paper; ;darkgreen
+RW107;t2593;review;8;5;paper; ;darkgreen
+RW153;t2594;review;8;5;paper; ;darkgreen
+RW177;t2596;review;8;5;paper; ;darkgreen
+RW20;t2614;review;8;5;paper; ;darkgreen
+RW36;t2623;review;8;5;paper; ;darkgreen
+RW20;t2666;review;8;5;paper; ;darkgreen
+RW36;t2667;review;8;5;paper; ;darkgreen
+RW36;t2675;review;8;5;paper; ;darkgreen
+RW28;t2680;review;8;5;paper; ;darkgreen
+RW36;t2681;review;8;5;paper; ;darkgreen
+RW28;t2694;review;8;5;paper; ;darkgreen
+RW148;t1353;review;9;5;paper; ;yellow4
+RW119;t1359;review;9;5;paper; ;yellow4
+RW148;t1360;review;9;5;paper; ;yellow4
+RW119;t1363;review;9;5;paper; ;yellow4
+RW119;t1369;review;9;5;paper; ;yellow4
+RW148;t1370;review;9;5;paper; ;yellow4
+RW119;t1378;review;9;5;paper; ;yellow4
+RW148;t1379;review;9;5;paper; ;yellow4
+RW119;t1385;review;9;5;paper; ;yellow4
+RW54;t1496;review;9;5;paper; ;palegreen4
+RW54;t1497;review;9;5;paper; ;palegreen4
+RW149;t1498;review;9;5;paper; ;palegreen4
+RW54;t1499;review;9;5;paper; ;palegreen4
+RW54;t1500;review;9;5;paper; ;palegreen4
+RW111;t1504;review;9;5;paper; ;red
+RW111;t1521;review;9;5;paper; ;red
+RW29;t1523;review;9;5;paper; ;red
+RW161;t1543;review;9;5;paper; ;red
+RW111;t1551;review;9;5;paper; ;red
+RW111;t1552;review;9;5;paper; ;red
+RW29;t1555;review;9;5;paper; ;red
+RW29;t1558;review;9;5;paper; ;red
+RW29;t1570;review;9;5;paper; ;red
+RW29;t1574;review;9;5;paper; ;red
+RW119;t1592;review;9;5;paper; ;red
+RW148;t1593;review;9;5;paper; ;red
+RW161;t1600;review;9;5;paper; ;red
+RW111;t1601;review;9;5;paper; ;red
+RW111;t1602;review;9;5;paper; ;red
+RW29;t1606;review;9;5;paper; ;red
+RW111;t1608;review;9;5;paper; ;red
+RW29;t1644;review;9;5;paper; ;red
+RW111;t1648;review;9;5;paper; ;red
+RW29;t1650;review;9;5;paper; ;red
+RW161;t1652;review;9;5;paper; ;red
+RW29;t1654;review;9;5;paper; ;red
+RW111;t1661;review;9;5;paper; ;red
+RW119;t1674;review;9;5;paper; ;red
+RW161;t1698;review;9;5;paper; ;red
+RW161;t1700;review;9;5;paper; ;red
+RW29;t1703;review;9;5;paper; ;red
+RW142;t1722;review;9;5;paper; ;navyblue
+RW142;t1725;review;9;5;paper; ;navyblue
+RW142;t1728;review;9;5;paper; ;navyblue
+RW142;t1733;review;9;5;paper; ;navyblue
+RW66;t2112;review;9;5;paper; ;dodgerblue2
+RW66;t2121;review;9;5;paper; ;dodgerblue2
+RW66;t2132;review;9;5;paper; ;dodgerblue2
+RW191;t2154;review;9;5;paper; ;orchid4
+RW191;t2155;review;9;5;paper; ;orchid4
+RW191;t2156;review;9;5;paper; ;orchid4
+RW191;t2158;review;9;5;paper; ;orchid4
+RW191;t2160;review;9;5;paper; ;orchid4
+RW149;t2184;review;9;5;paper; ;slateblue3
+RW54;t2207;review;9;5;paper; ;springgreen4
+RW122;t2208;review;9;5;paper; ;darkblue
+RW156;t2209;review;9;5;paper; ;darkblue
+RW122;t2227;review;9;5;paper; ;darkblue
+RW156;t2228;review;9;5;paper; ;darkblue
+RW122;t2243;review;9;5;paper; ;darkblue
+RW156;t2244;review;9;5;paper; ;darkblue
+RW156;t2273;review;9;5;paper; ;darkblue
+RW122;t2278;review;9;5;paper; ;darkblue
+RW149;t2321;review;9;5;paper; ;royalblue1
+RW149;t2322;review;9;5;paper; ;royalblue1
+RW149;t2324;review;9;5;paper; ;royalblue1
+RW149;t2327;review;9;5;paper; ;royalblue1
+RW149;t2330;review;9;5;paper; ;royalblue1
+RW149;t2334;review;9;5;paper; ;royalblue1
+RW149;t2341;review;9;5;paper; ;royalblue1
+RW149;t2343;review;9;5;paper; ;royalblue1
+RW149;t2348;review;9;5;paper; ;royalblue1
+RW121;t2375;review;9;5;paper; ;deepskyblue4
+RW121;t2401;review;9;5;paper; ;deepskyblue4
+RW6;t2405;review;9;5;paper; ;deepskyblue4
+RW6;t2446;review;9;5;paper; ;deepskyblue4
+RW121;t2455;review;9;5;paper; ;deepskyblue4
+RW150;t2460;review;9;5;paper; ;deepskyblue4
+RW150;t2469;review;9;5;paper; ;deepskyblue4
+RW6;t2471;review;9;5;paper; ;deepskyblue4
+RW121;t2480;review;9;5;paper; ;deepskyblue4
+RW150;t2481;review;9;5;paper; ;deepskyblue4
+RW121;t2489;review;9;5;paper; ;deepskyblue4
+RW150;t2490;review;9;5;paper; ;deepskyblue4
+RW150;t2499;review;9;5;paper; ;deepskyblue4
+RW231;t2510;review;9;5;paper; ;darkgreen
+RW16;t2516;review;9;5;paper; ;darkgreen
+RW175;t2520;review;9;5;paper; ;darkgreen
+RW192;t2524;review;9;5;paper; ;darkgreen
+RW175;t2529;review;9;5;paper; ;darkgreen
+RW192;t2533;review;9;5;paper; ;darkgreen
+RW29;t2550;review;9;5;paper; ;darkgreen
+RW16;t2554;review;9;5;paper; ;darkgreen
+RW194;t2561;review;9;5;paper; ;darkgreen
+RW231;t2563;review;9;5;paper; ;darkgreen
+RW231;t2580;review;9;5;paper; ;darkgreen
+RW175;t2595;review;9;5;paper; ;darkgreen
+RW192;t2599;review;9;5;paper; ;darkgreen
+RW16;t2618;review;9;5;paper; ;darkgreen
+RW16;t2622;review;9;5;paper; ;darkgreen
+RW194;t2627;review;9;5;paper; ;darkgreen
+RW16;t2631;review;9;5;paper; ;darkgreen
+RW231;t2642;review;9;5;paper; ;darkgreen
+RW194;t2651;review;9;5;paper; ;darkgreen
+RW16;t2657;review;9;5;paper; ;darkgreen
+RW16;t2660;review;9;5;paper; ;darkgreen
+RW231;t2661;review;9;5;paper; ;darkgreen
+RW231;t2676;review;9;5;paper; ;darkgreen
+RW19;t1356;review;10;5;paper; ;yellow4
+RW19;t1365;review;10;5;paper; ;yellow4
+RW19;t1374;review;10;5;paper; ;yellow4
+RW19;t1383;review;10;5;paper; ;yellow4
+RW59;t1407;review;10;5;paper; ;olivedrab4
+RW59;t1412;review;10;5;paper; ;olivedrab4
+RW59;t1418;review;10;5;paper; ;olivedrab4
+RW59;t1423;review;10;5;paper; ;olivedrab4
+RW59;t1428;review;10;5;paper; ;olivedrab4
+RW59;t1435;review;10;5;paper; ;olivedrab4
+RW59;t1442;review;10;5;paper; ;olivedrab4
+RW59;t1447;review;10;5;paper; ;olivedrab4
+RW230;t1450;review;10;5;paper; ;olivedrab4
+RW59;t1457;review;10;5;paper; ;olivedrab4
+RW59;t1463;review;10;5;paper; ;olivedrab4
+RW59;t1467;review;10;5;paper; ;olivedrab4
+RW59;t1478;review;10;5;paper; ;olivedrab4
+RW59;t1483;review;10;5;paper; ;olivedrab4
+RW59;t1490;review;10;5;paper; ;olivedrab4
+RW190;t1511;review;10;5;paper; ;red
+RW190;t1515;review;10;5;paper; ;red
+RW19;t1535;review;10;5;paper; ;red
+RW190;t1581;review;10;5;paper; ;red
+RW19;t1588;review;10;5;paper; ;red
+RW19;t1665;review;10;5;paper; ;red
+RW190;t1667;review;10;5;paper; ;red
+RW19;t1673;review;10;5;paper; ;red
+RW190;t1690;review;10;5;paper; ;red
+RW48;t2106;review;10;5;paper; ;dodgerblue2
+RW65;t2111;review;10;5;paper; ;dodgerblue2
+RW65;t2120;review;10;5;paper; ;dodgerblue2
+RW65;t2131;review;10;5;paper; ;dodgerblue2
+RW65;t2148;review;10;5;paper; ;dodgerblue2
+RW173;t2152;review;10;5;paper; ;dodgerblue2
+RW173;t2153;review;10;5;paper; ;cadetblue3
+RW173;t2286;review;10;5;paper; ;cyan4
+RW48;t2362;review;10;5;paper; ;deepskyblue4
+RW144;t2365;review;10;5;paper; ;deepskyblue4
+RW48;t2370;review;10;5;paper; ;deepskyblue4
+RW120;t2374;review;10;5;paper; ;deepskyblue4
+RW273;t2378;review;10;5;paper; ;deepskyblue4
+RW273;t2387;review;10;5;paper; ;deepskyblue4
+RW280;t2388;review;10;5;paper; ;deepskyblue4
+RW144;t2396;review;10;5;paper; ;deepskyblue4
+RW120;t2399;review;10;5;paper; ;deepskyblue4
+RW144;t2400;review;10;5;paper; ;deepskyblue4
+RW83;t2406;review;10;5;paper; ;deepskyblue4
+RW144;t2407;review;10;5;paper; ;deepskyblue4
+RW280;t2414;review;10;5;paper; ;deepskyblue4
+RW144;t2422;review;10;5;paper; ;deepskyblue4
+RW273;t2424;review;10;5;paper; ;deepskyblue4
+RW144;t2425;review;10;5;paper; ;deepskyblue4
+RW280;t2427;review;10;5;paper; ;deepskyblue4
+RW48;t2428;review;10;5;paper; ;deepskyblue4
+RW120;t2429;review;10;5;paper; ;deepskyblue4
+RW144;t2430;review;10;5;paper; ;deepskyblue4
+RW273;t2431;review;10;5;paper; ;deepskyblue4
+RW83;t2432;review;10;5;paper; ;deepskyblue4
+RW48;t2433;review;10;5;paper; ;deepskyblue4
+RW273;t2434;review;10;5;paper; ;deepskyblue4
+RW280;t2440;review;10;5;paper; ;deepskyblue4
+RW273;t2443;review;10;5;paper; ;deepskyblue4
+RW83;t2447;review;10;5;paper; ;deepskyblue4
+RW280;t2448;review;10;5;paper; ;deepskyblue4
+RW144;t2449;review;10;5;paper; ;deepskyblue4
+RW273;t2450;review;10;5;paper; ;deepskyblue4
+RW144;t2452;review;10;5;paper; ;deepskyblue4
+RW120;t2454;review;10;5;paper; ;deepskyblue4
+RW144;t2457;review;10;5;paper; ;deepskyblue4
+RW273;t2459;review;10;5;paper; ;deepskyblue4
+RW83;t2472;review;10;5;paper; ;deepskyblue4
+RW48;t2473;review;10;5;paper; ;deepskyblue4
+RW48;t2474;review;10;5;paper; ;deepskyblue4
+RW59;t2476;review;10;5;paper; ;deepskyblue4
+RW273;t2479;review;10;5;paper; ;deepskyblue4
+RW273;t2484;review;10;5;paper; ;deepskyblue4
+RW59;t2486;review;10;5;paper; ;deepskyblue4
+RW120;t2506;review;10;5;paper; ;deepskyblue4
+RW273;t2507;review;10;5;paper; ;deepskyblue4
+RW230;t2542;review;10;5;paper; ;darkgreen
+RW230;t2558;review;10;5;paper; ;darkgreen
+RW230;t2560;review;10;5;paper; ;darkgreen
+RW230;t2577;review;10;5;paper; ;darkgreen
+RW230;t2584;review;10;5;paper; ;darkgreen
+RW230;t2604;review;10;5;paper; ;darkgreen
+RW230;t2607;review;10;5;paper; ;darkgreen
+RW230;t2611;review;10;5;paper; ;darkgreen
+RW230;t2615;review;10;5;paper; ;darkgreen
+RW230;t2620;review;10;5;paper; ;darkgreen
+RW230;t2636;review;10;5;paper; ;darkgreen
+RW230;t2653;review;10;5;paper; ;darkgreen
+RW230;t2669;review;10;5;paper; ;darkgreen
+RW154;t2329;review;11;5;paper; ;royalblue1
+RW154;t2336;review;11;5;paper; ;royalblue1
+RW154;t2346;review;11;5;paper; ;royalblue1
+RW21;t2380;review;11;5;paper; ;deepskyblue4
+RW21;t2408;review;11;5;paper; ;deepskyblue4
+RW21;t2498;review;11;5;paper; ;deepskyblue4
